@@ -1,0 +1,546 @@
+==== System Log Initialized ====
+[2025-03-12 11:59:40] Updated Values -> Corrected Volume: 1401 m³, Gas Pressure: 460 psi, Dial Rate: 0.72 dial/min, Gas Temperature: -40°C, Flow Rate: 600 SCFH
+[2025-03-12 11:59:40] New Alarms Detected: ❄️ Temperature Too Low!, 🚰 Flow Rate Too Low!, 🐢 Dial Rate Too Low!
+[2025-03-12 11:59:45] Updated Values -> Corrected Volume: 1169 m³, Gas Pressure: 987 psi, Dial Rate: 1.24 dial/min, Gas Temperature: -39°C, Flow Rate: 600 SCFH
+[2025-03-12 11:59:45] New Alarms Detected: ❄️ Temperature Too Low!, 🚰 Flow Rate Too Low!, 📉 Corrected Volume Too Low!
+==== System Log Initialized ====
+[2025-03-12 12:01:22] Updated Values -> Corrected Volume: 1292 m³, Gas Pressure: 924 psi, Dial Rate: 1.49 dial/min, Gas Temperature: -17°C, Flow Rate: 792 SCFH
+[2025-03-12 12:01:22] New Alarms Detected: ❄️ Temperature Too Low!, 🚰 Flow Rate Too Low!, ⚡ Dial Rate Too High!
+==== System Log Initialized ====
+[2025-03-12 12:05:58] Updated Values -> Corrected Volume: 1210 m³, Gas Pressure: 500 psi, Dial Rate: 1.11 dial/min, Gas Temperature: 0°C, Flow Rate: 1046 SCFH
+[2025-03-12 12:06:03] Updated Values -> Corrected Volume: 1903 m³, Gas Pressure: 406 psi, Dial Rate: 0.68 dial/min, Gas Temperature: -2°C, Flow Rate: 1392 SCFH
+[2025-03-12 12:06:03] New Alarms Detected: ❄️ Temperature Too Low!, 🌊 Flow Rate Too High!, 📈 Corrected Volume Too High!, 🐢 Dial Rate Too Low!
+==== System Log Initialized ====
+==== System Log Initialized ====
+[2025-03-12 12:19:29] Updated Values -> Corrected Volume: 1168 m³, Gas Pressure: 239 psi, Dial Rate: 1.23 dial/min, Gas Temperature: -29°C, Flow Rate: 1150 SCFH
+[2025-03-12 12:19:29] New Alarms Detected: ❄️ Temperature Too Low!, 🌊 Flow Rate Too High!, 📉 Corrected Volume Too Low!
+[2025-03-12 12:19:34] Updated Values -> Corrected Volume: 1269 m³, Gas Pressure: 973 psi, Dial Rate: 0.56 dial/min, Gas Temperature: -8°C, Flow Rate: 1314 SCFH
+[2025-03-12 12:19:34] New Alarms Detected: ❄️ Temperature Too Low!, 🌊 Flow Rate Too High!, 🐢 Dial Rate Too Low!
+==== System Log Initialized ====
+[2025-03-12 12:39:05] Updated Values -> Corrected Volume: 1834 m³, Gas Pressure: 858 psi, Dial Rate: 1.48 dial/min, Gas Temperature: 48°C, Flow Rate: 699 SCFH
+[2025-03-12 12:39:05] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!, 📈 Corrected Volume Too High!, ⚡ Dial Rate Too High!
+[2025-03-12 12:39:10] Updated Values -> Corrected Volume: 1046 m³, Gas Pressure: 1118 psi, Dial Rate: 0.63 dial/min, Gas Temperature: 70°C, Flow Rate: 1006 SCFH
+[2025-03-12 12:39:10] New Alarms Detected: 🔥 Temperature Too High!, ⚠️ Pressure Too High!, 📉 Corrected Volume Too Low!, 🐢 Dial Rate Too Low!
+[2025-03-12 12:39:15] Updated Values -> Corrected Volume: 1507 m³, Gas Pressure: 1126 psi, Dial Rate: 1.41 dial/min, Gas Temperature: 78°C, Flow Rate: 1484 SCFH
+[2025-03-12 12:39:15] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, ⚠️ Pressure Too High!, ⚡ Dial Rate Too High!
+[2025-03-12 12:39:20] Updated Values -> Corrected Volume: 1828 m³, Gas Pressure: 1033 psi, Dial Rate: 0.98 dial/min, Gas Temperature: 44°C, Flow Rate: 1447 SCFH
+[2025-03-12 12:39:20] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, ⚠️ Pressure Too High!, 📈 Corrected Volume Too High!
+[2025-03-12 12:39:25] Updated Values -> Corrected Volume: 1229 m³, Gas Pressure: 702 psi, Dial Rate: 0.99 dial/min, Gas Temperature: -28°C, Flow Rate: 617 SCFH
+[2025-03-12 12:39:25] New Alarms Detected: ❄️ Temperature Too Low!, 🚰 Flow Rate Too Low!
+==== System Log Initialized ====
+[2025-03-12 12:39:52] Updated Values -> Corrected Volume: 1148 m³, Gas Pressure: 1067 psi, Dial Rate: 0.93 dial/min, Gas Temperature: 62°C, Flow Rate: 555 SCFH
+[2025-03-12 12:39:52] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!, ⚠️ Pressure Too High!, 📉 Corrected Volume Too Low!
+[2025-03-12 12:39:57] Updated Values -> Corrected Volume: 1621 m³, Gas Pressure: 226 psi, Dial Rate: 0.91 dial/min, Gas Temperature: 57°C, Flow Rate: 1399 SCFH
+[2025-03-12 12:39:57] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!
+[2025-03-12 12:40:02] Updated Values -> Corrected Volume: 1885 m³, Gas Pressure: 734 psi, Dial Rate: 0.62 dial/min, Gas Temperature: -19°C, Flow Rate: 700 SCFH
+[2025-03-12 12:40:02] New Alarms Detected: ❄️ Temperature Too Low!, 🚰 Flow Rate Too Low!, 📈 Corrected Volume Too High!, 🐢 Dial Rate Too Low!
+[2025-03-12 12:40:07] Updated Values -> Corrected Volume: 1962 m³, Gas Pressure: 197 psi, Dial Rate: 1.3 dial/min, Gas Temperature: 57°C, Flow Rate: 586 SCFH
+[2025-03-12 12:40:07] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!, 📈 Corrected Volume Too High!
+[2025-03-12 12:40:12] Updated Values -> Corrected Volume: 1718 m³, Gas Pressure: 1010 psi, Dial Rate: 1.24 dial/min, Gas Temperature: -23°C, Flow Rate: 765 SCFH
+[2025-03-12 12:40:12] New Alarms Detected: ❄️ Temperature Too Low!, 🚰 Flow Rate Too Low!, ⚠️ Pressure Too High!
+[2025-03-12 12:40:17] Updated Values -> Corrected Volume: 1686 m³, Gas Pressure: 106 psi, Dial Rate: 1.48 dial/min, Gas Temperature: 69°C, Flow Rate: 642 SCFH
+[2025-03-12 12:40:17] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!, ⚡ Dial Rate Too High!
+[2025-03-12 12:40:22] Updated Values -> Corrected Volume: 1111 m³, Gas Pressure: 1114 psi, Dial Rate: 1.37 dial/min, Gas Temperature: 26°C, Flow Rate: 1368 SCFH
+[2025-03-12 12:40:22] New Alarms Detected: 🌊 Flow Rate Too High!, ⚠️ Pressure Too High!, 📉 Corrected Volume Too Low!, ⚡ Dial Rate Too High!
+==== System Log Initialized ====
+[2025-03-12 12:41:30] Updated Values -> Corrected Volume: 1299 m³, Gas Pressure: 1013 psi, Dial Rate: 1.27 dial/min, Gas Temperature: 61°C, Flow Rate: 695 SCFH
+[2025-03-12 12:41:30] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!, ⚠️ Pressure Too High!
+[2025-03-12 12:41:35] Updated Values -> Corrected Volume: 1239 m³, Gas Pressure: 921 psi, Dial Rate: 0.79 dial/min, Gas Temperature: 16°C, Flow Rate: 1489 SCFH
+[2025-03-12 12:41:35] New Alarms Detected: 🌊 Flow Rate Too High!, 🐢 Dial Rate Too Low!
+[2025-03-12 12:41:40] Updated Values -> Corrected Volume: 1693 m³, Gas Pressure: 226 psi, Dial Rate: 0.58 dial/min, Gas Temperature: 67°C, Flow Rate: 616 SCFH
+[2025-03-12 12:41:40] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!, 🐢 Dial Rate Too Low!
+[2025-03-12 12:41:45] Updated Values -> Corrected Volume: 1316 m³, Gas Pressure: 522 psi, Dial Rate: 0.9 dial/min, Gas Temperature: -6°C, Flow Rate: 1255 SCFH
+[2025-03-12 12:41:45] New Alarms Detected: ❄️ Temperature Too Low!, 🌊 Flow Rate Too High!
+[2025-03-12 12:41:50] Updated Values -> Corrected Volume: 1266 m³, Gas Pressure: 1000 psi, Dial Rate: 1.12 dial/min, Gas Temperature: 20°C, Flow Rate: 842 SCFH
+[2025-03-12 12:41:50] New Alarms Detected: 🚰 Flow Rate Too Low!
+[2025-03-12 12:41:55] Updated Values -> Corrected Volume: 1550 m³, Gas Pressure: 863 psi, Dial Rate: 1.39 dial/min, Gas Temperature: 76°C, Flow Rate: 1147 SCFH
+[2025-03-12 12:41:55] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, ⚡ Dial Rate Too High!
+[2025-03-12 12:42:00] Updated Values -> Corrected Volume: 1924 m³, Gas Pressure: 22 psi, Dial Rate: 1.19 dial/min, Gas Temperature: -5°C, Flow Rate: 1194 SCFH
+[2025-03-12 12:42:00] New Alarms Detected: ❄️ Temperature Too Low!, 🌊 Flow Rate Too High!, ⚠️ Pressure Too Low!, 📈 Corrected Volume Too High!
+[2025-03-12 12:42:05] Updated Values -> Corrected Volume: 1429 m³, Gas Pressure: 825 psi, Dial Rate: 1.15 dial/min, Gas Temperature: 31°C, Flow Rate: 1412 SCFH
+[2025-03-12 12:42:05] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!
+[2025-03-12 12:42:10] Updated Values -> Corrected Volume: 1300 m³, Gas Pressure: 516 psi, Dial Rate: 0.83 dial/min, Gas Temperature: 3°C, Flow Rate: 627 SCFH
+[2025-03-12 12:42:10] New Alarms Detected: 🚰 Flow Rate Too Low!, 🐢 Dial Rate Too Low!
+[2025-03-12 12:42:15] Updated Values -> Corrected Volume: 1093 m³, Gas Pressure: 5 psi, Dial Rate: 0.9 dial/min, Gas Temperature: 75°C, Flow Rate: 1147 SCFH
+[2025-03-12 12:42:15] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, ⚠️ Pressure Too Low!, 📉 Corrected Volume Too Low!
+[2025-03-12 12:42:20] Updated Values -> Corrected Volume: 1223 m³, Gas Pressure: 1169 psi, Dial Rate: 0.72 dial/min, Gas Temperature: 42°C, Flow Rate: 1488 SCFH
+[2025-03-12 12:42:20] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, ⚠️ Pressure Too High!, 🐢 Dial Rate Too Low!
+[2025-03-12 12:42:25] Updated Values -> Corrected Volume: 1789 m³, Gas Pressure: 774 psi, Dial Rate: 1.28 dial/min, Gas Temperature: 42°C, Flow Rate: 1162 SCFH
+[2025-03-12 12:42:25] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!
+[2025-03-12 12:42:30] Updated Values -> Corrected Volume: 1416 m³, Gas Pressure: 1123 psi, Dial Rate: 1.03 dial/min, Gas Temperature: 69°C, Flow Rate: 1184 SCFH
+[2025-03-12 12:42:30] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, ⚠️ Pressure Too High!
+[2025-03-12 12:42:35] Updated Values -> Corrected Volume: 1068 m³, Gas Pressure: 325 psi, Dial Rate: 0.51 dial/min, Gas Temperature: 52°C, Flow Rate: 1350 SCFH
+[2025-03-12 12:42:35] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, 📉 Corrected Volume Too Low!, 🐢 Dial Rate Too Low!
+[2025-03-12 12:42:40] Updated Values -> Corrected Volume: 1885 m³, Gas Pressure: 402 psi, Dial Rate: 1.22 dial/min, Gas Temperature: 69°C, Flow Rate: 772 SCFH
+[2025-03-12 12:42:40] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!, 📈 Corrected Volume Too High!
+[2025-03-12 12:42:45] Updated Values -> Corrected Volume: 1272 m³, Gas Pressure: 615 psi, Dial Rate: 1.03 dial/min, Gas Temperature: 10°C, Flow Rate: 1249 SCFH
+[2025-03-12 12:42:45] New Alarms Detected: 🌊 Flow Rate Too High!
+[2025-03-12 12:42:50] Updated Values -> Corrected Volume: 1940 m³, Gas Pressure: 31 psi, Dial Rate: 0.96 dial/min, Gas Temperature: 53°C, Flow Rate: 547 SCFH
+[2025-03-12 12:42:50] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!, ⚠️ Pressure Too Low!, 📈 Corrected Volume Too High!
+[2025-03-12 12:42:55] Updated Values -> Corrected Volume: 1799 m³, Gas Pressure: 979 psi, Dial Rate: 1.48 dial/min, Gas Temperature: 55°C, Flow Rate: 1339 SCFH
+[2025-03-12 12:42:55] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, ⚡ Dial Rate Too High!
+[2025-03-12 12:43:00] Updated Values -> Corrected Volume: 1807 m³, Gas Pressure: 1199 psi, Dial Rate: 1.12 dial/min, Gas Temperature: -2°C, Flow Rate: 1485 SCFH
+[2025-03-12 12:43:00] New Alarms Detected: ❄️ Temperature Too Low!, 🌊 Flow Rate Too High!, ⚠️ Pressure Too High!, 📈 Corrected Volume Too High!
+==== System Log Initialized ====
+[2025-03-12 14:52:37] Updated Values -> Corrected Volume: 1865 m³, Gas Pressure: 569 psi, Dial Rate: 1.17 dial/min, Gas Temperature: 29°C, Flow Rate: 1040 SCFH
+==== System Log Initialized ====
+[2025-03-12 14:54:21] Updated Values -> Corrected Volume: 1189 m³, Gas Pressure: 725 psi, Dial Rate: 0.94 dial/min, Gas Temperature: 56°C, Flow Rate: 1148 SCFH
+[2025-03-12 14:54:26] Updated Values -> Corrected Volume: 1856 m³, Gas Pressure: 480 psi, Dial Rate: 0.86 dial/min, Gas Temperature: 33°C, Flow Rate: 1209 SCFH
+[2025-03-12 14:54:31] Updated Values -> Corrected Volume: 1521 m³, Gas Pressure: 182 psi, Dial Rate: 1.44 dial/min, Gas Temperature: 68°C, Flow Rate: 502 SCFH
+[2025-03-12 14:54:36] Updated Values -> Corrected Volume: 1451 m³, Gas Pressure: 1112 psi, Dial Rate: 0.98 dial/min, Gas Temperature: 29°C, Flow Rate: 921 SCFH
+[2025-03-12 14:54:41] Updated Values -> Corrected Volume: 1102 m³, Gas Pressure: 490 psi, Dial Rate: 1.02 dial/min, Gas Temperature: 4°C, Flow Rate: 1231 SCFH
+[2025-03-12 14:54:46] Updated Values -> Corrected Volume: 1371 m³, Gas Pressure: 550 psi, Dial Rate: 0.59 dial/min, Gas Temperature: 72°C, Flow Rate: 743 SCFH
+[2025-03-12 14:54:51] Updated Values -> Corrected Volume: 1854 m³, Gas Pressure: 615 psi, Dial Rate: 0.96 dial/min, Gas Temperature: 17°C, Flow Rate: 953 SCFH
+[2025-03-12 14:54:56] Updated Values -> Corrected Volume: 1868 m³, Gas Pressure: 50 psi, Dial Rate: 0.98 dial/min, Gas Temperature: 35°C, Flow Rate: 924 SCFH
+[2025-03-12 14:55:01] Updated Values -> Corrected Volume: 1878 m³, Gas Pressure: 315 psi, Dial Rate: 0.94 dial/min, Gas Temperature: 51°C, Flow Rate: 933 SCFH
+[2025-03-12 14:55:06] Updated Values -> Corrected Volume: 1052 m³, Gas Pressure: 1202 psi, Dial Rate: 0.99 dial/min, Gas Temperature: 9°C, Flow Rate: 1274 SCFH
+[2025-03-12 14:55:11] Updated Values -> Corrected Volume: 1437 m³, Gas Pressure: 1046 psi, Dial Rate: 0.92 dial/min, Gas Temperature: 32°C, Flow Rate: 796 SCFH
+[2025-03-12 14:55:16] Updated Values -> Corrected Volume: 1370 m³, Gas Pressure: 542 psi, Dial Rate: 0.79 dial/min, Gas Temperature: 62°C, Flow Rate: 813 SCFH
+[2025-03-12 14:55:21] Updated Values -> Corrected Volume: 1115 m³, Gas Pressure: 1177 psi, Dial Rate: 0.51 dial/min, Gas Temperature: 53°C, Flow Rate: 659 SCFH
+[2025-03-12 14:55:26] Updated Values -> Corrected Volume: 1885 m³, Gas Pressure: 964 psi, Dial Rate: 1.36 dial/min, Gas Temperature: -32°C, Flow Rate: 1477 SCFH
+[2025-03-12 14:55:31] Updated Values -> Corrected Volume: 1744 m³, Gas Pressure: 684 psi, Dial Rate: 0.84 dial/min, Gas Temperature: 72°C, Flow Rate: 674 SCFH
+[2025-03-12 14:55:36] Updated Values -> Corrected Volume: 1386 m³, Gas Pressure: 792 psi, Dial Rate: 0.52 dial/min, Gas Temperature: 75°C, Flow Rate: 1305 SCFH
+[2025-03-12 14:55:41] Updated Values -> Corrected Volume: 1844 m³, Gas Pressure: 310 psi, Dial Rate: 1.33 dial/min, Gas Temperature: 23°C, Flow Rate: 1195 SCFH
+[2025-03-12 14:55:46] Updated Values -> Corrected Volume: 1834 m³, Gas Pressure: 563 psi, Dial Rate: 0.73 dial/min, Gas Temperature: 10°C, Flow Rate: 797 SCFH
+[2025-03-12 14:55:51] Updated Values -> Corrected Volume: 1550 m³, Gas Pressure: 10 psi, Dial Rate: 0.67 dial/min, Gas Temperature: 35°C, Flow Rate: 1341 SCFH
+[2025-03-12 14:55:56] Updated Values -> Corrected Volume: 1857 m³, Gas Pressure: 182 psi, Dial Rate: 0.78 dial/min, Gas Temperature: 2°C, Flow Rate: 1421 SCFH
+[2025-03-12 14:56:01] Updated Values -> Corrected Volume: 1413 m³, Gas Pressure: 869 psi, Dial Rate: 0.67 dial/min, Gas Temperature: 41°C, Flow Rate: 556 SCFH
+[2025-03-12 14:56:06] Updated Values -> Corrected Volume: 1933 m³, Gas Pressure: 1102 psi, Dial Rate: 1.32 dial/min, Gas Temperature: 59°C, Flow Rate: 1188 SCFH
+[2025-03-12 14:56:11] Updated Values -> Corrected Volume: 1016 m³, Gas Pressure: 423 psi, Dial Rate: 1.2 dial/min, Gas Temperature: -9°C, Flow Rate: 1304 SCFH
+[2025-03-12 14:56:16] Updated Values -> Corrected Volume: 1081 m³, Gas Pressure: 57 psi, Dial Rate: 1.11 dial/min, Gas Temperature: 22°C, Flow Rate: 1048 SCFH
+==== System Log Initialized ====
+[2025-03-12 14:56:26] Updated Values -> Corrected Volume: 1846 m³, Gas Pressure: 1203 psi, Dial Rate: 0.87 dial/min, Gas Temperature: 42°C, Flow Rate: 1415 SCFH
+[2025-03-12 14:56:31] Updated Values -> Corrected Volume: 1233 m³, Gas Pressure: 1243 psi, Dial Rate: 0.78 dial/min, Gas Temperature: 44°C, Flow Rate: 1347 SCFH
+[2025-03-12 14:56:36] Updated Values -> Corrected Volume: 1590 m³, Gas Pressure: 283 psi, Dial Rate: 1.2 dial/min, Gas Temperature: 65°C, Flow Rate: 666 SCFH
+[2025-03-12 14:56:41] Updated Values -> Corrected Volume: 1254 m³, Gas Pressure: 678 psi, Dial Rate: 0.64 dial/min, Gas Temperature: 38°C, Flow Rate: 1087 SCFH
+==== System Log Initialized ====
+[2025-03-12 14:59:30] Updated Values -> Corrected Volume: 1876 m³, Gas Pressure: 424 psi, Dial Rate: 0.63 dial/min, Gas Temperature: 65°C, Flow Rate: 712 SCFH
+[2025-03-12 14:59:30] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!, 📈 Corrected Volume Too High!, 🐢 Dial Rate Too Low!
+[2025-03-12 14:59:35] Updated Values -> Corrected Volume: 1829 m³, Gas Pressure: 1000 psi, Dial Rate: 1.36 dial/min, Gas Temperature: 6°C, Flow Rate: 1367 SCFH
+[2025-03-12 14:59:35] New Alarms Detected: 🌊 Flow Rate Too High!, 📈 Corrected Volume Too High!, ⚡ Dial Rate Too High!
+[2025-03-12 14:59:40] Updated Values -> Corrected Volume: 1525 m³, Gas Pressure: 337 psi, Dial Rate: 0.96 dial/min, Gas Temperature: -37°C, Flow Rate: 1087 SCFH
+[2025-03-12 14:59:40] New Alarms Detected: ❄️ Temperature Too Low!
+[2025-03-12 14:59:45] Updated Values -> Corrected Volume: 1507 m³, Gas Pressure: 1194 psi, Dial Rate: 1.35 dial/min, Gas Temperature: -25°C, Flow Rate: 572 SCFH
+[2025-03-12 14:59:45] New Alarms Detected: ❄️ Temperature Too Low!, 🚰 Flow Rate Too Low!, ⚠️ Pressure Too High!, ⚡ Dial Rate Too High!
+[2025-03-12 14:59:50] Updated Values -> Corrected Volume: 1363 m³, Gas Pressure: 858 psi, Dial Rate: 1.06 dial/min, Gas Temperature: 2°C, Flow Rate: 1018 SCFH
+[2025-03-12 14:59:50] New Alarms Detected: 
+[2025-03-12 14:59:55] Updated Values -> Corrected Volume: 1776 m³, Gas Pressure: 772 psi, Dial Rate: 0.98 dial/min, Gas Temperature: -25°C, Flow Rate: 1079 SCFH
+[2025-03-12 14:59:55] New Alarms Detected: ❄️ Temperature Too Low!
+==== System Log Initialized ====
+[2025-03-12 15:24:55] Updated Values -> Corrected Volume: 1429 m³, Gas Pressure: 929 psi, Dial Rate: 0.76 dial/min, Gas Temperature: -13°C, Flow Rate: 1296 SCFH
+[2025-03-12 15:24:55] New Alarms Detected: ❄️ Temperature Too Low!, 🌊 Flow Rate Too High!, 🐢 Dial Rate Too Low!
+[2025-03-12 15:25:00] Updated Values -> Corrected Volume: 1272 m³, Gas Pressure: 449 psi, Dial Rate: 0.68 dial/min, Gas Temperature: 80°C, Flow Rate: 765 SCFH
+[2025-03-12 15:25:00] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!, 🐢 Dial Rate Too Low!
+[2025-03-12 15:25:05] Updated Values -> Corrected Volume: 1169 m³, Gas Pressure: 1123 psi, Dial Rate: 0.51 dial/min, Gas Temperature: 43°C, Flow Rate: 1023 SCFH
+[2025-03-12 15:25:05] New Alarms Detected: 🔥 Temperature Too High!, ⚠️ Pressure Too High!, 📉 Corrected Volume Too Low!, 🐢 Dial Rate Too Low!
+[2025-03-12 15:25:10] Updated Values -> Corrected Volume: 1534 m³, Gas Pressure: 153 psi, Dial Rate: 1.17 dial/min, Gas Temperature: 77°C, Flow Rate: 1194 SCFH
+[2025-03-12 15:25:10] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!
+==== System Log Initialized ====
+[2025-03-12 15:26:53] Updated Values -> Corrected Volume: 1467 m³, Gas Pressure: 433 psi, Dial Rate: 1.05 dial/min, Gas Temperature: 74°C, Flow Rate: 986 SCFH
+[2025-03-12 15:26:53] New Alarms Detected: 🔥 Temperature Too High!
+[2025-03-12 15:26:58] Updated Values -> Corrected Volume: 1231 m³, Gas Pressure: 1046 psi, Dial Rate: 1.32 dial/min, Gas Temperature: 48°C, Flow Rate: 1236 SCFH
+[2025-03-12 15:26:58] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, ⚠️ Pressure Too High!, ⚡ Dial Rate Too High!
+[2025-03-12 15:27:03] Updated Values -> Corrected Volume: 1580 m³, Gas Pressure: 742 psi, Dial Rate: 1.17 dial/min, Gas Temperature: -24°C, Flow Rate: 922 SCFH
+[2025-03-12 15:27:03] New Alarms Detected: ❄️ Temperature Too Low!
+[2025-03-12 15:27:08] Updated Values -> Corrected Volume: 1776 m³, Gas Pressure: 1037 psi, Dial Rate: 0.76 dial/min, Gas Temperature: -31°C, Flow Rate: 733 SCFH
+[2025-03-12 15:27:08] New Alarms Detected: ❄️ Temperature Too Low!, 🚰 Flow Rate Too Low!, ⚠️ Pressure Too High!, 🐢 Dial Rate Too Low!
+[2025-03-12 15:27:13] Updated Values -> Corrected Volume: 1443 m³, Gas Pressure: 402 psi, Dial Rate: 1.37 dial/min, Gas Temperature: -10°C, Flow Rate: 640 SCFH
+[2025-03-12 15:27:13] New Alarms Detected: ❄️ Temperature Too Low!, 🚰 Flow Rate Too Low!, ⚡ Dial Rate Too High!
+[2025-03-12 15:27:18] Updated Values -> Corrected Volume: 1197 m³, Gas Pressure: 340 psi, Dial Rate: 0.56 dial/min, Gas Temperature: 26°C, Flow Rate: 538 SCFH
+[2025-03-12 15:27:18] New Alarms Detected: 🚰 Flow Rate Too Low!, 📉 Corrected Volume Too Low!, 🐢 Dial Rate Too Low!
+==== System Log Initialized ====
+[2025-03-12 17:16:00] Updated Values -> Corrected Volume: 1855 m³, Gas Pressure: 31 psi, Dial Rate: 0.54 dial/min, Gas Temperature: 66°C, Flow Rate: 951 SCFH
+[2025-03-12 17:16:00] New Alarms Detected: 🔥 Temperature Too High!, ⚠️ Pressure Too Low!, 📈 Corrected Volume Too High!, 🐢 Dial Rate Too Low!
+[2025-03-12 17:16:05] Updated Values -> Corrected Volume: 1632 m³, Gas Pressure: 753 psi, Dial Rate: 0.99 dial/min, Gas Temperature: 43°C, Flow Rate: 874 SCFH
+[2025-03-12 17:16:05] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!
+[2025-03-12 17:16:10] Updated Values -> Corrected Volume: 1802 m³, Gas Pressure: 976 psi, Dial Rate: 1.24 dial/min, Gas Temperature: 27°C, Flow Rate: 561 SCFH
+[2025-03-12 17:16:10] New Alarms Detected: 🚰 Flow Rate Too Low!, 📈 Corrected Volume Too High!
+[2025-03-12 17:16:15] Updated Values -> Corrected Volume: 1343 m³, Gas Pressure: 235 psi, Dial Rate: 0.86 dial/min, Gas Temperature: 80°C, Flow Rate: 1313 SCFH
+[2025-03-12 17:16:15] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, 🐢 Dial Rate Too Low!
+[2025-03-12 17:16:20] Updated Values -> Corrected Volume: 1404 m³, Gas Pressure: 964 psi, Dial Rate: 1.35 dial/min, Gas Temperature: -38°C, Flow Rate: 1319 SCFH
+[2025-03-12 17:16:20] New Alarms Detected: ❄️ Temperature Too Low!, 🌊 Flow Rate Too High!, ⚡ Dial Rate Too High!
+==== System Log Initialized ====
+[2025-03-12 17:18:05] Updated Values -> Corrected Volume: 1408 m³, Gas Pressure: 1040 psi, Dial Rate: 1.1 dial/min, Gas Temperature: 65°C, Flow Rate: 554 SCFH
+[2025-03-12 17:18:05] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!, ⚠️ Pressure Too High!
+[2025-03-12 17:18:10] Updated Values -> Corrected Volume: 1294 m³, Gas Pressure: 322 psi, Dial Rate: 1.37 dial/min, Gas Temperature: -18°C, Flow Rate: 656 SCFH
+[2025-03-12 17:18:10] New Alarms Detected: ❄️ Temperature Too Low!, 🚰 Flow Rate Too Low!, ⚡ Dial Rate Too High!
+[2025-03-12 17:18:15] Updated Values -> Corrected Volume: 1512 m³, Gas Pressure: 1151 psi, Dial Rate: 0.98 dial/min, Gas Temperature: 76°C, Flow Rate: 1114 SCFH
+[2025-03-12 17:18:15] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, ⚠️ Pressure Too High!
+[2025-03-12 17:18:20] Updated Values -> Corrected Volume: 1308 m³, Gas Pressure: 215 psi, Dial Rate: 0.61 dial/min, Gas Temperature: -33°C, Flow Rate: 1233 SCFH
+[2025-03-12 17:18:20] New Alarms Detected: ❄️ Temperature Too Low!, 🌊 Flow Rate Too High!, 🐢 Dial Rate Too Low!
+==== System Log Initialized ====
+[2025-03-12 17:18:36] Updated Values -> Corrected Volume: 1616 m³, Gas Pressure: 897 psi, Dial Rate: 1.23 dial/min, Gas Temperature: -29°C, Flow Rate: 1382 SCFH
+[2025-03-12 17:18:36] New Alarms Detected: ❄️ Temperature Too Low!, 🌊 Flow Rate Too High!
+[2025-03-12 17:18:41] Updated Values -> Corrected Volume: 1638 m³, Gas Pressure: 560 psi, Dial Rate: 1.49 dial/min, Gas Temperature: 55°C, Flow Rate: 958 SCFH
+[2025-03-12 17:18:41] New Alarms Detected: 🔥 Temperature Too High!, ⚡ Dial Rate Too High!
+[2025-03-12 17:18:46] Updated Values -> Corrected Volume: 1931 m³, Gas Pressure: 55 psi, Dial Rate: 0.78 dial/min, Gas Temperature: 35°C, Flow Rate: 1303 SCFH
+[2025-03-12 17:18:46] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, ⚠️ Pressure Too Low!, 📈 Corrected Volume Too High!, 🐢 Dial Rate Too Low!
+[2025-03-12 17:18:46] Updated Values -> Corrected Volume: 1316 m³, Gas Pressure: 84 psi, Dial Rate: 1.13 dial/min, Gas Temperature: 35°C, Flow Rate: 1342 SCFH
+[2025-03-12 17:18:46] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, ⚠️ Pressure Too Low!
+[2025-03-12 17:18:51] Updated Values -> Corrected Volume: 1463 m³, Gas Pressure: 267 psi, Dial Rate: 1.02 dial/min, Gas Temperature: 53°C, Flow Rate: 1255 SCFH
+[2025-03-12 17:18:51] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!
+[2025-03-12 17:18:56] Updated Values -> Corrected Volume: 1597 m³, Gas Pressure: 745 psi, Dial Rate: 1.33 dial/min, Gas Temperature: -2°C, Flow Rate: 973 SCFH
+[2025-03-12 17:18:56] New Alarms Detected: ❄️ Temperature Too Low!, ⚡ Dial Rate Too High!
+==== System Log Initialized ====
+[2025-03-12 17:20:16] Updated Values -> Corrected Volume: 1224 m³, Gas Pressure: 1077 psi, Dial Rate: 0.52 dial/min, Gas Temperature: 11°C, Flow Rate: 571 SCFH
+[2025-03-12 17:20:16] New Alarms Detected: 🚰 Flow Rate Too Low!, ⚠️ Pressure Too High!, 🐢 Dial Rate Too Low!
+[2025-03-12 17:20:21] Updated Values -> Corrected Volume: 1083 m³, Gas Pressure: 789 psi, Dial Rate: 1.26 dial/min, Gas Temperature: -3°C, Flow Rate: 1339 SCFH
+[2025-03-12 17:20:21] New Alarms Detected: ❄️ Temperature Too Low!, 🌊 Flow Rate Too High!, 📉 Corrected Volume Too Low!
+[2025-03-12 17:20:26] Updated Values -> Corrected Volume: 1448 m³, Gas Pressure: 450 psi, Dial Rate: 0.75 dial/min, Gas Temperature: 28°C, Flow Rate: 949 SCFH
+[2025-03-12 17:20:26] New Alarms Detected: 🐢 Dial Rate Too Low!
+==== System Log Initialized ====
+[2025-03-12 17:20:58] Updated Values -> Corrected Volume: 1289 m³, Gas Pressure: 915 psi, Dial Rate: 0.82 dial/min, Gas Temperature: 15°C, Flow Rate: 641 SCFH
+[2025-03-12 17:20:58] New Alarms Detected: 🚰 Flow Rate Too Low!, 🐢 Dial Rate Too Low!
+[2025-03-12 17:21:03] Updated Values -> Corrected Volume: 1722 m³, Gas Pressure: 221 psi, Dial Rate: 1.31 dial/min, Gas Temperature: 19°C, Flow Rate: 816 SCFH
+[2025-03-12 17:21:03] New Alarms Detected: 🚰 Flow Rate Too Low!, ⚡ Dial Rate Too High!
+[2025-03-12 17:21:08] Updated Values -> Corrected Volume: 1996 m³, Gas Pressure: 911 psi, Dial Rate: 0.91 dial/min, Gas Temperature: 59°C, Flow Rate: 521 SCFH
+[2025-03-12 17:21:08] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!, 📈 Corrected Volume Too High!
+[2025-03-12 17:21:13] Updated Values -> Corrected Volume: 1158 m³, Gas Pressure: 631 psi, Dial Rate: 1.11 dial/min, Gas Temperature: 57°C, Flow Rate: 1388 SCFH
+[2025-03-12 17:21:13] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, 📉 Corrected Volume Too Low!
+==== System Log Initialized ====
+[2025-03-12 17:22:07] Updated Values -> Corrected Volume: 1318 m³, Gas Pressure: 349 psi, Dial Rate: 1.29 dial/min, Gas Temperature: 10°C, Flow Rate: 1296 SCFH
+[2025-03-12 17:22:07] New Alarms Detected: 🌊 Flow Rate Too High!
+[2025-03-12 17:22:12] Updated Values -> Corrected Volume: 1363 m³, Gas Pressure: 203 psi, Dial Rate: 1.04 dial/min, Gas Temperature: 56°C, Flow Rate: 925 SCFH
+[2025-03-12 17:22:12] New Alarms Detected: 🔥 Temperature Too High!
+[2025-03-12 17:22:17] Updated Values -> Corrected Volume: 1832 m³, Gas Pressure: 985 psi, Dial Rate: 0.93 dial/min, Gas Temperature: 57°C, Flow Rate: 568 SCFH
+[2025-03-12 17:22:17] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!, 📈 Corrected Volume Too High!
+==== System Log Initialized ====
+[2025-03-12 17:27:04] Updated Values -> Corrected Volume: 1252 m³, Gas Pressure: 853 psi, Dial Rate: 0.86 dial/min, Gas Temperature: 58°C, Flow Rate: 1019 SCFH
+[2025-03-12 17:27:04] New Alarms Detected: 🔥 Temperature Too High!, 🐢 Dial Rate Too Low!
+[2025-03-12 17:27:09] Updated Values -> Corrected Volume: 1616 m³, Gas Pressure: 1012 psi, Dial Rate: 0.53 dial/min, Gas Temperature: 75°C, Flow Rate: 897 SCFH
+[2025-03-12 17:27:09] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!, ⚠️ Pressure Too High!, 🐢 Dial Rate Too Low!
+[2025-03-12 17:27:14] Updated Values -> Corrected Volume: 1133 m³, Gas Pressure: 657 psi, Dial Rate: 0.9 dial/min, Gas Temperature: -1°C, Flow Rate: 1309 SCFH
+[2025-03-12 17:27:14] New Alarms Detected: ❄️ Temperature Too Low!, 🌊 Flow Rate Too High!, 📉 Corrected Volume Too Low!
+[2025-03-12 17:27:19] Updated Values -> Corrected Volume: 1568 m³, Gas Pressure: 833 psi, Dial Rate: 0.56 dial/min, Gas Temperature: 80°C, Flow Rate: 1191 SCFH
+[2025-03-12 17:27:19] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, 🐢 Dial Rate Too Low!
+[2025-03-12 17:27:24] Updated Values -> Corrected Volume: 1411 m³, Gas Pressure: 231 psi, Dial Rate: 1.25 dial/min, Gas Temperature: -11°C, Flow Rate: 1472 SCFH
+[2025-03-12 17:27:24] New Alarms Detected: ❄️ Temperature Too Low!, 🌊 Flow Rate Too High!
+[2025-03-12 17:27:29] Updated Values -> Corrected Volume: 1735 m³, Gas Pressure: 292 psi, Dial Rate: 0.98 dial/min, Gas Temperature: -10°C, Flow Rate: 1133 SCFH
+==== System Log Initialized ====
+[2025-03-12 17:27:41] Updated Values -> Corrected Volume: 1714 m³, Gas Pressure: 1162 psi, Dial Rate: 1.13 dial/min, Gas Temperature: -24°C, Flow Rate: 1167 SCFH
+[2025-03-12 17:27:41] New Alarms Detected: ❄️ Temperature Too Low!, 🌊 Flow Rate Too High!, ⚠️ Pressure Too High!
+[2025-03-12 17:27:46] Updated Values -> Corrected Volume: 1475 m³, Gas Pressure: 1192 psi, Dial Rate: 0.99 dial/min, Gas Temperature: -40°C, Flow Rate: 842 SCFH
+[2025-03-12 17:27:46] New Alarms Detected: ❄️ Temperature Too Low!, 🚰 Flow Rate Too Low!, ⚠️ Pressure Too High!
+[2025-03-12 17:27:48] Updated Values -> Corrected Volume: 1518 m³, Gas Pressure: 462 psi, Dial Rate: 1.3 dial/min, Gas Temperature: -34°C, Flow Rate: 1246 SCFH
+[2025-03-12 17:27:48] New Alarms Detected: ❄️ Temperature Too Low!, 🌊 Flow Rate Too High!
+[2025-03-12 17:27:50] Updated Values -> Corrected Volume: 1766 m³, Gas Pressure: 146 psi, Dial Rate: 0.65 dial/min, Gas Temperature: 71°C, Flow Rate: 711 SCFH
+[2025-03-12 17:27:50] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!, 🐢 Dial Rate Too Low!
+[2025-03-12 17:27:51] Updated Values -> Corrected Volume: 1013 m³, Gas Pressure: 1017 psi, Dial Rate: 0.6 dial/min, Gas Temperature: 66°C, Flow Rate: 599 SCFH
+[2025-03-12 17:27:51] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!, ⚠️ Pressure Too High!, 📉 Corrected Volume Too Low!, 🐢 Dial Rate Too Low!
+[2025-03-12 17:27:51] Updated Values -> Corrected Volume: 1435 m³, Gas Pressure: 436 psi, Dial Rate: 0.91 dial/min, Gas Temperature: 0°C, Flow Rate: 842 SCFH
+[2025-03-12 17:27:51] New Alarms Detected: 🚰 Flow Rate Too Low!
+==== System Log Initialized ====
+==== System Log Initialized ====
+[2025-03-12 17:32:03] Updated Values -> Corrected Volume: 1763 m³, Gas Pressure: 435 psi, Dial Rate: 1.26 dial/min, Gas Temperature: -25°C, Flow Rate: 629 SCFH
+[2025-03-12 17:32:03] New Alarms Detected: ❄️ Temperature Too Low!, 🚰 Flow Rate Too Low!
+[2025-03-12 17:32:08] Updated Values -> Corrected Volume: 1774 m³, Gas Pressure: 317 psi, Dial Rate: 1.48 dial/min, Gas Temperature: -40°C, Flow Rate: 514 SCFH
+[2025-03-12 17:32:08] New Alarms Detected: ❄️ Temperature Too Low!, 🚰 Flow Rate Too Low!, ⚡ Dial Rate Too High!
+[2025-03-12 17:32:13] Updated Values -> Corrected Volume: 1618 m³, Gas Pressure: 805 psi, Dial Rate: 0.64 dial/min, Gas Temperature: -38°C, Flow Rate: 1219 SCFH
+[2025-03-12 17:32:13] New Alarms Detected: ❄️ Temperature Too Low!, 🌊 Flow Rate Too High!, 🐢 Dial Rate Too Low!
+==== System Log Initialized ====
+==== System Log Initialized ====
+[2025-03-12 22:08:34] Updated Values -> Corrected Volume: 1132 m³, Gas Pressure: 1075 psi, Dial Rate: 1.41 dial/min, Gas Temperature: 74°C, Flow Rate: 1464 SCFH
+[2025-03-12 22:08:34] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, ⚠️ Pressure Too High!, 📉 Corrected Volume Too Low!, ⚡ Dial Rate Too High!
+[2025-03-12 22:08:39] Updated Values -> Corrected Volume: 1264 m³, Gas Pressure: 606 psi, Dial Rate: 0.91 dial/min, Gas Temperature: 73°C, Flow Rate: 697 SCFH
+[2025-03-12 22:08:39] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!
+[2025-03-12 22:08:44] Updated Values -> Corrected Volume: 1573 m³, Gas Pressure: 773 psi, Dial Rate: 1.0 dial/min, Gas Temperature: 19°C, Flow Rate: 1041 SCFH
+[2025-03-12 22:08:44] New Alarms Detected: 
+[2025-03-12 22:08:49] Updated Values -> Corrected Volume: 1012 m³, Gas Pressure: 1078 psi, Dial Rate: 1.48 dial/min, Gas Temperature: 71°C, Flow Rate: 734 SCFH
+[2025-03-12 22:08:49] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!, ⚠️ Pressure Too High!, 📉 Corrected Volume Too Low!, ⚡ Dial Rate Too High!
+[2025-03-12 22:08:54] Updated Values -> Corrected Volume: 1464 m³, Gas Pressure: 276 psi, Dial Rate: 1.38 dial/min, Gas Temperature: -25°C, Flow Rate: 905 SCFH
+[2025-03-12 22:08:54] New Alarms Detected: ❄️ Temperature Too Low!, ⚡ Dial Rate Too High!
+[2025-03-12 22:08:59] Updated Values -> Corrected Volume: 1364 m³, Gas Pressure: 114 psi, Dial Rate: 0.57 dial/min, Gas Temperature: 66°C, Flow Rate: 507 SCFH
+[2025-03-12 22:08:59] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!, 🐢 Dial Rate Too Low!
+==== System Log Initialized ====
+[2025-03-12 22:09:42] Updated Values -> Corrected Volume: 1645 m³, Gas Pressure: 525 psi, Dial Rate: 0.96 dial/min, Gas Temperature: 69°C, Flow Rate: 1136 SCFH
+[2025-03-12 22:09:42] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!
+[2025-03-12 22:09:47] Updated Values -> Corrected Volume: 1211 m³, Gas Pressure: 1085 psi, Dial Rate: 1.33 dial/min, Gas Temperature: 57°C, Flow Rate: 1105 SCFH
+[2025-03-12 22:09:47] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, ⚠️ Pressure Too High!, ⚡ Dial Rate Too High!
+[2025-03-12 22:09:52] Updated Values -> Corrected Volume: 1871 m³, Gas Pressure: 951 psi, Dial Rate: 0.86 dial/min, Gas Temperature: 52°C, Flow Rate: 1077 SCFH
+[2025-03-12 22:09:52] New Alarms Detected: 🔥 Temperature Too High!, 📈 Corrected Volume Too High!, 🐢 Dial Rate Too Low!
+[2025-03-12 22:09:57] Updated Values -> Corrected Volume: 1935 m³, Gas Pressure: 127 psi, Dial Rate: 1.4 dial/min, Gas Temperature: -4°C, Flow Rate: 734 SCFH
+[2025-03-12 22:09:57] New Alarms Detected: ❄️ Temperature Too Low!, 🚰 Flow Rate Too Low!, 📈 Corrected Volume Too High!, ⚡ Dial Rate Too High!
+==== System Log Initialized ====
+[2025-03-12 22:13:25] Updated Values -> Corrected Volume: 1797 m³, Gas Pressure: 15 psi, Dial Rate: 0.88 dial/min, Gas Temperature: -34°C, Flow Rate: 648 SCFH
+[2025-03-12 22:13:25] New Alarms Detected: ❄️ Temperature Too Low!, 🚰 Flow Rate Too Low!, ⚠️ Pressure Too Low!, 🐢 Dial Rate Too Low!
+[2025-03-12 22:13:30] Updated Values -> Corrected Volume: 1847 m³, Gas Pressure: 397 psi, Dial Rate: 1.38 dial/min, Gas Temperature: 23°C, Flow Rate: 1020 SCFH
+[2025-03-12 22:13:30] New Alarms Detected: 📈 Corrected Volume Too High!, ⚡ Dial Rate Too High!
+[2025-03-12 22:13:35] Updated Values -> Corrected Volume: 1358 m³, Gas Pressure: 1011 psi, Dial Rate: 1.49 dial/min, Gas Temperature: -14°C, Flow Rate: 804 SCFH
+[2025-03-12 22:13:35] New Alarms Detected: ❄️ Temperature Too Low!, 🚰 Flow Rate Too Low!, ⚠️ Pressure Too High!, ⚡ Dial Rate Too High!
+[2025-03-12 22:13:38] Updated Values -> Corrected Volume: 1630 m³, Gas Pressure: 592 psi, Dial Rate: 0.7 dial/min, Gas Temperature: 45°C, Flow Rate: 1004 SCFH
+[2025-03-12 22:13:38] New Alarms Detected: 🔥 Temperature Too High!, 🐢 Dial Rate Too Low!
+[2025-03-12 22:13:40] Updated Values -> Corrected Volume: 1420 m³, Gas Pressure: 1210 psi, Dial Rate: 0.57 dial/min, Gas Temperature: 55°C, Flow Rate: 924 SCFH
+[2025-03-12 22:13:40] New Alarms Detected: 🔥 Temperature Too High!, ⚠️ Pressure Too High!, 🐢 Dial Rate Too Low!
+[2025-03-12 22:13:42] Updated Values -> Corrected Volume: 1173 m³, Gas Pressure: 64 psi, Dial Rate: 1.48 dial/min, Gas Temperature: -13°C, Flow Rate: 975 SCFH
+[2025-03-12 22:13:42] New Alarms Detected: ❄️ Temperature Too Low!, ⚠️ Pressure Too Low!, 📉 Corrected Volume Too Low!, ⚡ Dial Rate Too High!
+[2025-03-12 22:13:45] Updated Values -> Corrected Volume: 1609 m³, Gas Pressure: 565 psi, Dial Rate: 1.2 dial/min, Gas Temperature: 72°C, Flow Rate: 953 SCFH
+[2025-03-12 22:13:45] New Alarms Detected: 🔥 Temperature Too High!
+==== System Log Initialized ====
+[2025-03-12 23:05:12] Updated Values -> Corrected Volume: 1122 m³, Gas Pressure: 115 psi, Dial Rate: 1.06 dial/min, Gas Temperature: -36°C, Flow Rate: 692 SCFH
+[2025-03-12 23:05:12] New Alarms Detected: ❄️ Temperature Too Low!, 🚰 Flow Rate Too Low!, 📉 Corrected Volume Too Low!
+[2025-03-12 23:05:17] Updated Values -> Corrected Volume: 1074 m³, Gas Pressure: 686 psi, Dial Rate: 1.31 dial/min, Gas Temperature: 14°C, Flow Rate: 1367 SCFH
+[2025-03-12 23:05:17] New Alarms Detected: 🌊 Flow Rate Too High!, 📉 Corrected Volume Too Low!, ⚡ Dial Rate Too High!
+[2025-03-12 23:05:22] Updated Values -> Corrected Volume: 1228 m³, Gas Pressure: 1078 psi, Dial Rate: 1.08 dial/min, Gas Temperature: 77°C, Flow Rate: 1055 SCFH
+[2025-03-12 23:05:22] New Alarms Detected: 🔥 Temperature Too High!, ⚠️ Pressure Too High!
+[2025-03-12 23:05:27] Updated Values -> Corrected Volume: 1611 m³, Gas Pressure: 793 psi, Dial Rate: 0.98 dial/min, Gas Temperature: 56°C, Flow Rate: 1265 SCFH
+[2025-03-12 23:05:27] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!
+[2025-03-12 23:05:32] Updated Values -> Corrected Volume: 1683 m³, Gas Pressure: 103 psi, Dial Rate: 1.13 dial/min, Gas Temperature: 36°C, Flow Rate: 1225 SCFH
+[2025-03-12 23:05:37] Updated Values -> Corrected Volume: 1450 m³, Gas Pressure: 238 psi, Dial Rate: 1.08 dial/min, Gas Temperature: 38°C, Flow Rate: 798 SCFH
+[2025-03-12 23:05:37] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!
+[2025-03-12 23:05:42] Updated Values -> Corrected Volume: 1380 m³, Gas Pressure: 136 psi, Dial Rate: 0.56 dial/min, Gas Temperature: 7°C, Flow Rate: 1196 SCFH
+[2025-03-12 23:05:42] New Alarms Detected: 🌊 Flow Rate Too High!, 🐢 Dial Rate Too Low!
+[2025-03-12 23:05:47] Updated Values -> Corrected Volume: 1060 m³, Gas Pressure: 461 psi, Dial Rate: 0.92 dial/min, Gas Temperature: -9°C, Flow Rate: 522 SCFH
+[2025-03-12 23:05:47] New Alarms Detected: ❄️ Temperature Too Low!, 🚰 Flow Rate Too Low!, 📉 Corrected Volume Too Low!
+[2025-03-12 23:05:52] Updated Values -> Corrected Volume: 1217 m³, Gas Pressure: 789 psi, Dial Rate: 1.46 dial/min, Gas Temperature: -21°C, Flow Rate: 1440 SCFH
+[2025-03-12 23:05:52] New Alarms Detected: ❄️ Temperature Too Low!, 🌊 Flow Rate Too High!, ⚡ Dial Rate Too High!
+[2025-03-12 23:05:57] Updated Values -> Corrected Volume: 1004 m³, Gas Pressure: 560 psi, Dial Rate: 0.51 dial/min, Gas Temperature: 66°C, Flow Rate: 1083 SCFH
+[2025-03-12 23:05:57] New Alarms Detected: 🔥 Temperature Too High!, 📉 Corrected Volume Too Low!, 🐢 Dial Rate Too Low!
+[2025-03-12 23:06:02] Updated Values -> Corrected Volume: 1090 m³, Gas Pressure: 510 psi, Dial Rate: 1.15 dial/min, Gas Temperature: 23°C, Flow Rate: 1281 SCFH
+[2025-03-12 23:06:02] New Alarms Detected: 🌊 Flow Rate Too High!, 📉 Corrected Volume Too Low!
+[2025-03-12 23:06:07] Updated Values -> Corrected Volume: 1724 m³, Gas Pressure: 900 psi, Dial Rate: 0.95 dial/min, Gas Temperature: 26°C, Flow Rate: 1087 SCFH
+[2025-03-12 23:06:07] New Alarms Detected: 
+[2025-03-12 23:06:12] Updated Values -> Corrected Volume: 1077 m³, Gas Pressure: 271 psi, Dial Rate: 1.37 dial/min, Gas Temperature: -40°C, Flow Rate: 955 SCFH
+[2025-03-12 23:06:12] New Alarms Detected: ❄️ Temperature Too Low!, 📉 Corrected Volume Too Low!, ⚡ Dial Rate Too High!
+[2025-03-12 23:06:17] Updated Values -> Corrected Volume: 1570 m³, Gas Pressure: 342 psi, Dial Rate: 0.53 dial/min, Gas Temperature: 71°C, Flow Rate: 1328 SCFH
+[2025-03-12 23:06:17] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, 🐢 Dial Rate Too Low!
+==== System Log Initialized ====
+[2025-03-12 23:09:33] Updated Values -> Corrected Volume: 1250 m³, Gas Pressure: 700 psi, Dial Rate: 1.34 dial/min, Gas Temperature: -3°C, Flow Rate: 1446 SCFH
+[2025-03-12 23:09:33] New Alarms Detected: ❄️ Temperature Too Low!, 🌊 Flow Rate Too High!, ⚡ Dial Rate Too High!
+[2025-03-12 23:09:38] Updated Values -> Corrected Volume: 1262 m³, Gas Pressure: 740 psi, Dial Rate: 0.72 dial/min, Gas Temperature: -33°C, Flow Rate: 1346 SCFH
+[2025-03-12 23:09:38] New Alarms Detected: ❄️ Temperature Too Low!, 🌊 Flow Rate Too High!, 🐢 Dial Rate Too Low!
+[2025-03-12 23:09:43] Updated Values -> Corrected Volume: 1411 m³, Gas Pressure: 413 psi, Dial Rate: 0.6 dial/min, Gas Temperature: -29°C, Flow Rate: 952 SCFH
+[2025-03-12 23:09:43] New Alarms Detected: ❄️ Temperature Too Low!, 🐢 Dial Rate Too Low!
+[2025-03-12 23:09:48] Updated Values -> Corrected Volume: 1051 m³, Gas Pressure: 626 psi, Dial Rate: 1.3 dial/min, Gas Temperature: -38°C, Flow Rate: 588 SCFH
+[2025-03-12 23:09:48] New Alarms Detected: ❄️ Temperature Too Low!, 🚰 Flow Rate Too Low!, 📉 Corrected Volume Too Low!
+[2025-03-12 23:09:53] Updated Values -> Corrected Volume: 1265 m³, Gas Pressure: 319 psi, Dial Rate: 0.84 dial/min, Gas Temperature: 13°C, Flow Rate: 1147 SCFH
+[2025-03-12 23:09:53] New Alarms Detected: 🌊 Flow Rate Too High!, 🐢 Dial Rate Too Low!
+==== System Log Initialized ====
+==== System Log Initialized ====
+[2025-03-12 23:24:30] Updated Values -> Corrected Volume: 1087 m³, Gas Pressure: 96 psi, Dial Rate: 1.03 dial/min, Gas Temperature: 13°C, Flow Rate: 1078 SCFH
+[2025-03-12 23:24:30] New Alarms Detected: ⚠️ Pressure Too Low!, 📉 Corrected Volume Too Low!
+[2025-03-12 23:24:35] Updated Values -> Corrected Volume: 1218 m³, Gas Pressure: 1038 psi, Dial Rate: 0.76 dial/min, Gas Temperature: -27°C, Flow Rate: 1417 SCFH
+[2025-03-12 23:24:35] New Alarms Detected: ❄️ Temperature Too Low!, 🌊 Flow Rate Too High!, ⚠️ Pressure Too High!, 🐢 Dial Rate Too Low!
+[2025-03-12 23:24:40] Updated Values -> Corrected Volume: 1226 m³, Gas Pressure: 351 psi, Dial Rate: 0.85 dial/min, Gas Temperature: 7°C, Flow Rate: 1199 SCFH
+[2025-03-12 23:24:40] New Alarms Detected: 🌊 Flow Rate Too High!, 🐢 Dial Rate Too Low!
+==== System Log Initialized ====
+==== System Log Initialized ====
+[2025-03-12 23:26:07] Updated Values -> Corrected Volume: 1990 m³, Gas Pressure: 920 psi, Dial Rate: 1.47 dial/min, Gas Temperature: 2°C, Flow Rate: 1448 SCFH
+[2025-03-12 23:26:07] New Alarms Detected: 🌊 Flow Rate Too High!, 📈 Corrected Volume Too High!, ⚡ Dial Rate Too High!
+==== System Log Initialized ====
+[2025-03-12 23:26:18] Updated Values -> Corrected Volume: 1575 m³, Gas Pressure: 591 psi, Dial Rate: 0.6 dial/min, Gas Temperature: 12°C, Flow Rate: 532 SCFH
+[2025-03-12 23:26:18] New Alarms Detected: 🚰 Flow Rate Too Low!, 🐢 Dial Rate Too Low!
+==== System Log Initialized ====
+[2025-03-12 23:26:26] Updated Values -> Corrected Volume: 1862 m³, Gas Pressure: 389 psi, Dial Rate: 0.72 dial/min, Gas Temperature: -1°C, Flow Rate: 722 SCFH
+[2025-03-12 23:26:26] New Alarms Detected: ❄️ Temperature Too Low!, 🚰 Flow Rate Too Low!, 📈 Corrected Volume Too High!, 🐢 Dial Rate Too Low!
+[2025-03-12 23:26:31] Updated Values -> Corrected Volume: 1077 m³, Gas Pressure: 771 psi, Dial Rate: 0.69 dial/min, Gas Temperature: -22°C, Flow Rate: 1421 SCFH
+[2025-03-12 23:26:31] New Alarms Detected: ❄️ Temperature Too Low!, 🌊 Flow Rate Too High!, 📉 Corrected Volume Too Low!, 🐢 Dial Rate Too Low!
+[2025-03-12 23:26:36] Updated Values -> Corrected Volume: 1205 m³, Gas Pressure: 1082 psi, Dial Rate: 1.44 dial/min, Gas Temperature: 35°C, Flow Rate: 1070 SCFH
+[2025-03-12 23:26:36] New Alarms Detected: 🔥 Temperature Too High!, ⚠️ Pressure Too High!, ⚡ Dial Rate Too High!
+[2025-03-12 23:26:41] Updated Values -> Corrected Volume: 1268 m³, Gas Pressure: 1232 psi, Dial Rate: 1.44 dial/min, Gas Temperature: 43°C, Flow Rate: 601 SCFH
+[2025-03-12 23:26:41] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!, ⚠️ Pressure Too High!, ⚡ Dial Rate Too High!
+[2025-03-12 23:26:46] Updated Values -> Corrected Volume: 1149 m³, Gas Pressure: 1132 psi, Dial Rate: 1.1 dial/min, Gas Temperature: 41°C, Flow Rate: 590 SCFH
+[2025-03-12 23:26:46] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!, ⚠️ Pressure Too High!, 📉 Corrected Volume Too Low!
+[2025-03-12 23:26:51] Updated Values -> Corrected Volume: 1560 m³, Gas Pressure: 212 psi, Dial Rate: 0.71 dial/min, Gas Temperature: 21°C, Flow Rate: 1477 SCFH
+[2025-03-12 23:26:51] New Alarms Detected: 🌊 Flow Rate Too High!, 🐢 Dial Rate Too Low!
+[2025-03-12 23:26:56] Updated Values -> Corrected Volume: 1309 m³, Gas Pressure: 968 psi, Dial Rate: 1.32 dial/min, Gas Temperature: 80°C, Flow Rate: 813 SCFH
+[2025-03-12 23:26:56] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!, ⚡ Dial Rate Too High!
+==== System Log Initialized ====
+[2025-03-12 23:28:22] Updated Values -> Corrected Volume: 1764 m³, Gas Pressure: 136 psi, Dial Rate: 1.01 dial/min, Gas Temperature: -28°C, Flow Rate: 658 SCFH
+[2025-03-12 23:28:22] New Alarms Detected: ❄️ Temperature Too Low!, 🚰 Flow Rate Too Low!
+[2025-03-12 23:28:27] Updated Values -> Corrected Volume: 1081 m³, Gas Pressure: 1124 psi, Dial Rate: 0.81 dial/min, Gas Temperature: 59°C, Flow Rate: 715 SCFH
+[2025-03-12 23:28:27] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!, ⚠️ Pressure Too High!, 📉 Corrected Volume Too Low!, 🐢 Dial Rate Too Low!
+[2025-03-12 23:28:32] Updated Values -> Corrected Volume: 1959 m³, Gas Pressure: 722 psi, Dial Rate: 1.42 dial/min, Gas Temperature: -30°C, Flow Rate: 572 SCFH
+[2025-03-12 23:28:32] New Alarms Detected: ❄️ Temperature Too Low!, 🚰 Flow Rate Too Low!, 📈 Corrected Volume Too High!, ⚡ Dial Rate Too High!
+[2025-03-12 23:28:37] Updated Values -> Corrected Volume: 1940 m³, Gas Pressure: 1212 psi, Dial Rate: 1.18 dial/min, Gas Temperature: -25°C, Flow Rate: 603 SCFH
+[2025-03-12 23:28:37] New Alarms Detected: ❄️ Temperature Too Low!, 🚰 Flow Rate Too Low!, ⚠️ Pressure Too High!, 📈 Corrected Volume Too High!
+[2025-03-12 23:28:42] Updated Values -> Corrected Volume: 1611 m³, Gas Pressure: 1071 psi, Dial Rate: 0.66 dial/min, Gas Temperature: 53°C, Flow Rate: 1408 SCFH
+[2025-03-12 23:28:42] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, ⚠️ Pressure Too High!, 🐢 Dial Rate Too Low!
+[2025-03-12 23:28:47] Updated Values -> Corrected Volume: 1258 m³, Gas Pressure: 429 psi, Dial Rate: 0.65 dial/min, Gas Temperature: 35°C, Flow Rate: 1050 SCFH
+[2025-03-12 23:28:47] New Alarms Detected: 🔥 Temperature Too High!, 🐢 Dial Rate Too Low!
+[2025-03-12 23:28:52] Updated Values -> Corrected Volume: 1520 m³, Gas Pressure: 1025 psi, Dial Rate: 0.88 dial/min, Gas Temperature: 35°C, Flow Rate: 1469 SCFH
+[2025-03-12 23:28:52] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, ⚠️ Pressure Too High!, 🐢 Dial Rate Too Low!
+[2025-03-12 23:28:57] Updated Values -> Corrected Volume: 1782 m³, Gas Pressure: 1082 psi, Dial Rate: 0.51 dial/min, Gas Temperature: 78°C, Flow Rate: 1143 SCFH
+[2025-03-12 23:29:02] Updated Values -> Corrected Volume: 1236 m³, Gas Pressure: 751 psi, Dial Rate: 1.02 dial/min, Gas Temperature: -18°C, Flow Rate: 1255 SCFH
+[2025-03-12 23:29:02] New Alarms Detected: ❄️ Temperature Too Low!, 🌊 Flow Rate Too High!
+[2025-03-12 23:29:07] Updated Values -> Corrected Volume: 1691 m³, Gas Pressure: 103 psi, Dial Rate: 1.49 dial/min, Gas Temperature: 50°C, Flow Rate: 1368 SCFH
+[2025-03-12 23:29:07] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, ⚡ Dial Rate Too High!
+[2025-03-12 23:29:12] Updated Values -> Corrected Volume: 1188 m³, Gas Pressure: 839 psi, Dial Rate: 0.77 dial/min, Gas Temperature: -35°C, Flow Rate: 621 SCFH
+[2025-03-12 23:29:12] New Alarms Detected: ❄️ Temperature Too Low!, 🚰 Flow Rate Too Low!, 📉 Corrected Volume Too Low!, 🐢 Dial Rate Too Low!
+[2025-03-12 23:29:17] Updated Values -> Corrected Volume: 1742 m³, Gas Pressure: 1072 psi, Dial Rate: 0.94 dial/min, Gas Temperature: 55°C, Flow Rate: 754 SCFH
+[2025-03-12 23:29:17] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!, ⚠️ Pressure Too High!
+[2025-03-12 23:29:22] Updated Values -> Corrected Volume: 2000 m³, Gas Pressure: 405 psi, Dial Rate: 1.27 dial/min, Gas Temperature: -19°C, Flow Rate: 887 SCFH
+[2025-03-12 23:29:22] New Alarms Detected: ❄️ Temperature Too Low!, 🚰 Flow Rate Too Low!, 📈 Corrected Volume Too High!
+[2025-03-12 23:29:27] Updated Values -> Corrected Volume: 1204 m³, Gas Pressure: 391 psi, Dial Rate: 1.24 dial/min, Gas Temperature: 50°C, Flow Rate: 579 SCFH
+[2025-03-12 23:29:27] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!
+[2025-03-12 23:29:32] Updated Values -> Corrected Volume: 1677 m³, Gas Pressure: 742 psi, Dial Rate: 1.43 dial/min, Gas Temperature: 34°C, Flow Rate: 1491 SCFH
+[2025-03-12 23:29:32] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, ⚡ Dial Rate Too High!
+==== System Log Initialized ====
+[2025-03-13 10:22:33] Updated Values -> Corrected Volume: 1240 m³, Gas Pressure: 1093 psi, Dial Rate: 1.32 dial/min, Gas Temperature: 42°C, Flow Rate: 781 SCFH
+[2025-03-13 10:22:33] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!, ⚠️ Pressure Too High!, ⚡ Dial Rate Too High!
+[2025-03-13 10:22:38] Updated Values -> Corrected Volume: 1521 m³, Gas Pressure: 493 psi, Dial Rate: 0.63 dial/min, Gas Temperature: 4°C, Flow Rate: 567 SCFH
+[2025-03-13 10:22:38] New Alarms Detected: 🚰 Flow Rate Too Low!, 🐢 Dial Rate Too Low!
+[2025-03-13 10:22:43] Updated Values -> Corrected Volume: 1712 m³, Gas Pressure: 1054 psi, Dial Rate: 0.78 dial/min, Gas Temperature: 70°C, Flow Rate: 934 SCFH
+[2025-03-13 10:22:43] New Alarms Detected: 🔥 Temperature Too High!, ⚠️ Pressure Too High!, 🐢 Dial Rate Too Low!
+[2025-03-13 10:22:48] Updated Values -> Corrected Volume: 1151 m³, Gas Pressure: 851 psi, Dial Rate: 1.02 dial/min, Gas Temperature: 69°C, Flow Rate: 1022 SCFH
+[2025-03-13 10:22:48] New Alarms Detected: 🔥 Temperature Too High!, 📉 Corrected Volume Too Low!
+[2025-03-13 10:22:53] Updated Values -> Corrected Volume: 1015 m³, Gas Pressure: 1141 psi, Dial Rate: 0.95 dial/min, Gas Temperature: 80°C, Flow Rate: 1329 SCFH
+[2025-03-13 10:22:53] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, ⚠️ Pressure Too High!, 📉 Corrected Volume Too Low!
+[2025-03-13 10:22:58] Updated Values -> Corrected Volume: 1652 m³, Gas Pressure: 1192 psi, Dial Rate: 1.46 dial/min, Gas Temperature: 80°C, Flow Rate: 526 SCFH
+[2025-03-13 10:22:58] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!, ⚠️ Pressure Too High!, ⚡ Dial Rate Too High!
+[2025-03-13 10:23:03] Updated Values -> Corrected Volume: 1693 m³, Gas Pressure: 934 psi, Dial Rate: 0.59 dial/min, Gas Temperature: 63°C, Flow Rate: 1225 SCFH
+[2025-03-13 10:23:03] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, 🐢 Dial Rate Too Low!
+[2025-03-13 10:23:08] Updated Values -> Corrected Volume: 1824 m³, Gas Pressure: 1122 psi, Dial Rate: 1.39 dial/min, Gas Temperature: 35°C, Flow Rate: 1274 SCFH
+[2025-03-13 10:23:08] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, ⚠️ Pressure Too High!, 📈 Corrected Volume Too High!, ⚡ Dial Rate Too High!
+[2025-03-13 10:23:13] Updated Values -> Corrected Volume: 1539 m³, Gas Pressure: 640 psi, Dial Rate: 0.98 dial/min, Gas Temperature: 3°C, Flow Rate: 777 SCFH
+[2025-03-13 10:23:13] New Alarms Detected: 🚰 Flow Rate Too Low!
+[2025-03-13 10:23:18] Updated Values -> Corrected Volume: 1654 m³, Gas Pressure: 540 psi, Dial Rate: 0.89 dial/min, Gas Temperature: 79°C, Flow Rate: 1402 SCFH
+[2025-03-13 10:23:18] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, 🐢 Dial Rate Too Low!
+[2025-03-13 10:23:23] Updated Values -> Corrected Volume: 1134 m³, Gas Pressure: 758 psi, Dial Rate: 0.86 dial/min, Gas Temperature: 72°C, Flow Rate: 1169 SCFH
+[2025-03-13 10:23:23] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, 📉 Corrected Volume Too Low!, 🐢 Dial Rate Too Low!
+[2025-03-13 10:23:28] Updated Values -> Corrected Volume: 1690 m³, Gas Pressure: 1031 psi, Dial Rate: 1.3 dial/min, Gas Temperature: 33°C, Flow Rate: 1360 SCFH
+[2025-03-13 10:23:28] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, ⚠️ Pressure Too High!
+[2025-03-13 10:23:33] Updated Values -> Corrected Volume: 1202 m³, Gas Pressure: 281 psi, Dial Rate: 0.62 dial/min, Gas Temperature: 27°C, Flow Rate: 574 SCFH
+[2025-03-13 10:23:33] New Alarms Detected: 🚰 Flow Rate Too Low!, 🐢 Dial Rate Too Low!
+==== System Log Initialized ====
+[2025-03-13 10:41:33] Updated Values -> Corrected Volume: 1436 m³, Gas Pressure: 49 psi, Dial Rate: 0.77 dial/min, Gas Temperature: 53°C, Flow Rate: 1191 SCFH
+[2025-03-13 10:41:33] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, ⚠️ Pressure Too Low!, 🐢 Dial Rate Too Low!
+[2025-03-13 10:41:38] Updated Values -> Corrected Volume: 1400 m³, Gas Pressure: 194 psi, Dial Rate: 0.67 dial/min, Gas Temperature: -28°C, Flow Rate: 968 SCFH
+[2025-03-13 10:41:38] New Alarms Detected: ❄️ Temperature Too Low!, 🐢 Dial Rate Too Low!
+[2025-03-13 10:41:43] Updated Values -> Corrected Volume: 1743 m³, Gas Pressure: 311 psi, Dial Rate: 1.07 dial/min, Gas Temperature: 72°C, Flow Rate: 713 SCFH
+[2025-03-13 10:41:43] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!
+[2025-03-13 10:41:48] Updated Values -> Corrected Volume: 1407 m³, Gas Pressure: 651 psi, Dial Rate: 1.19 dial/min, Gas Temperature: -32°C, Flow Rate: 962 SCFH
+[2025-03-13 10:41:48] New Alarms Detected: ❄️ Temperature Too Low!
+[2025-03-13 10:41:53] Updated Values -> Corrected Volume: 1633 m³, Gas Pressure: 608 psi, Dial Rate: 1.2 dial/min, Gas Temperature: 43°C, Flow Rate: 1004 SCFH
+[2025-03-13 10:41:53] New Alarms Detected: 🔥 Temperature Too High!
+[2025-03-13 10:41:58] Updated Values -> Corrected Volume: 1846 m³, Gas Pressure: 540 psi, Dial Rate: 1.05 dial/min, Gas Temperature: -31°C, Flow Rate: 910 SCFH
+[2025-03-13 10:41:58] New Alarms Detected: ❄️ Temperature Too Low!, 📈 Corrected Volume Too High!
+==== System Log Initialized ====
+[2025-03-13 11:02:47] Updated Values -> Corrected Volume: 1340 m³, Gas Pressure: 510 psi, Dial Rate: 0.57 dial/min, Gas Temperature: 2°C, Flow Rate: 596 SCFH
+[2025-03-13 11:02:47] New Alarms Detected: 🚰 Flow Rate Too Low!, 🐢 Dial Rate Too Low!
+[2025-03-13 11:02:52] Updated Values -> Corrected Volume: 1642 m³, Gas Pressure: 1190 psi, Dial Rate: 1.15 dial/min, Gas Temperature: -12°C, Flow Rate: 597 SCFH
+[2025-03-13 11:02:52] New Alarms Detected: ❄️ Temperature Too Low!, 🚰 Flow Rate Too Low!, ⚠️ Pressure Too High!
+[2025-03-13 11:02:57] Updated Values -> Corrected Volume: 1220 m³, Gas Pressure: 424 psi, Dial Rate: 0.75 dial/min, Gas Temperature: 21°C, Flow Rate: 928 SCFH
+[2025-03-13 11:02:57] New Alarms Detected: 🐢 Dial Rate Too Low!
+[2025-03-13 11:03:02] Updated Values -> Corrected Volume: 1853 m³, Gas Pressure: 51 psi, Dial Rate: 1.29 dial/min, Gas Temperature: -16°C, Flow Rate: 1078 SCFH
+[2025-03-13 11:03:02] New Alarms Detected: ❄️ Temperature Too Low!, ⚠️ Pressure Too Low!, 📈 Corrected Volume Too High!
+[2025-03-13 11:03:07] Updated Values -> Corrected Volume: 1398 m³, Gas Pressure: 976 psi, Dial Rate: 1.27 dial/min, Gas Temperature: 33°C, Flow Rate: 1163 SCFH
+[2025-03-13 11:03:07] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!
+[2025-03-13 11:03:12] Updated Values -> Corrected Volume: 1361 m³, Gas Pressure: 687 psi, Dial Rate: 0.52 dial/min, Gas Temperature: 8°C, Flow Rate: 1369 SCFH
+[2025-03-13 11:03:12] New Alarms Detected: 🌊 Flow Rate Too High!, 🐢 Dial Rate Too Low!
+[2025-03-13 11:03:17] Updated Values -> Corrected Volume: 1640 m³, Gas Pressure: 626 psi, Dial Rate: 1.42 dial/min, Gas Temperature: -25°C, Flow Rate: 1140 SCFH
+[2025-03-13 11:03:17] New Alarms Detected: ❄️ Temperature Too Low!, 🌊 Flow Rate Too High!, ⚡ Dial Rate Too High!
+[2025-03-13 11:03:22] Updated Values -> Corrected Volume: 1100 m³, Gas Pressure: 901 psi, Dial Rate: 0.87 dial/min, Gas Temperature: -20°C, Flow Rate: 508 SCFH
+[2025-03-13 11:03:22] New Alarms Detected: ❄️ Temperature Too Low!, 🚰 Flow Rate Too Low!, 📉 Corrected Volume Too Low!, 🐢 Dial Rate Too Low!
+[2025-03-13 11:03:27] Updated Values -> Corrected Volume: 1884 m³, Gas Pressure: 217 psi, Dial Rate: 1.39 dial/min, Gas Temperature: 65°C, Flow Rate: 1259 SCFH
+[2025-03-13 11:03:27] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, 📈 Corrected Volume Too High!, ⚡ Dial Rate Too High!
+==== System Log Initialized ====
+==== System Log Initialized ====
+[2025-03-13 11:09:23] Updated Values -> Corrected Volume: 1316 m³, Gas Pressure: 979 psi, Dial Rate: 1.44 dial/min, Gas Temperature: -25°C, Flow Rate: 1369 SCFH
+[2025-03-13 11:09:23] New Alarms Detected: ❄️ Temperature Too Low!, 🌊 Flow Rate Too High!, ⚡ Dial Rate Too High!
+[2025-03-13 11:09:28] Updated Values -> Corrected Volume: 1094 m³, Gas Pressure: 40 psi, Dial Rate: 0.9 dial/min, Gas Temperature: 65°C, Flow Rate: 1392 SCFH
+[2025-03-13 11:09:28] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, ⚠️ Pressure Too Low!, 📉 Corrected Volume Too Low!
+[2025-03-13 11:09:33] Updated Values -> Corrected Volume: 1159 m³, Gas Pressure: 382 psi, Dial Rate: 0.51 dial/min, Gas Temperature: 35°C, Flow Rate: 1201 SCFH
+[2025-03-13 11:09:33] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, 📉 Corrected Volume Too Low!, 🐢 Dial Rate Too Low!
+[2025-03-13 11:09:38] Updated Values -> Corrected Volume: 1323 m³, Gas Pressure: 901 psi, Dial Rate: 0.57 dial/min, Gas Temperature: -7°C, Flow Rate: 1030 SCFH
+[2025-03-13 11:09:38] New Alarms Detected: ❄️ Temperature Too Low!, 🐢 Dial Rate Too Low!
+==== System Log Initialized ====
+[2025-03-13 11:12:50] Updated Values -> Corrected Volume: 1260 m³, Gas Pressure: 744 psi, Dial Rate: 1.37 dial/min, Gas Temperature: 69°C, Flow Rate: 1301 SCFH
+[2025-03-13 11:12:50] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, ⚡ Dial Rate Too High!
+[2025-03-13 11:12:55] Updated Values -> Corrected Volume: 1916 m³, Gas Pressure: 749 psi, Dial Rate: 1.23 dial/min, Gas Temperature: -18°C, Flow Rate: 1353 SCFH
+[2025-03-13 11:12:55] New Alarms Detected: ❄️ Temperature Too Low!, 🌊 Flow Rate Too High!, 📈 Corrected Volume Too High!
+[2025-03-13 11:13:00] Updated Values -> Corrected Volume: 1801 m³, Gas Pressure: 43 psi, Dial Rate: 1.28 dial/min, Gas Temperature: 31°C, Flow Rate: 794 SCFH
+[2025-03-13 11:13:00] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!, ⚠️ Pressure Too Low!, 📈 Corrected Volume Too High!
+[2025-03-13 11:13:05] Updated Values -> Corrected Volume: 1869 m³, Gas Pressure: 807 psi, Dial Rate: 1.02 dial/min, Gas Temperature: 20°C, Flow Rate: 906 SCFH
+[2025-03-13 11:13:05] New Alarms Detected: 📈 Corrected Volume Too High!
+==== System Log Initialized ====
+[2025-03-13 11:29:51] Updated Values -> Corrected Volume: 1302 m³, Gas Pressure: 1083 psi, Dial Rate: 1.3 dial/min, Gas Temperature: 32°C, Flow Rate: 1258 SCFH
+[2025-03-13 11:29:51] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, ⚠️ Pressure Too High!
+[2025-03-13 11:29:56] Updated Values -> Corrected Volume: 1520 m³, Gas Pressure: 493 psi, Dial Rate: 1.32 dial/min, Gas Temperature: -23°C, Flow Rate: 1312 SCFH
+[2025-03-13 11:29:56] New Alarms Detected: ❄️ Temperature Too Low!, 🌊 Flow Rate Too High!, ⚡ Dial Rate Too High!
+[2025-03-13 11:30:01] Updated Values -> Corrected Volume: 1256 m³, Gas Pressure: 1012 psi, Dial Rate: 0.77 dial/min, Gas Temperature: 68°C, Flow Rate: 1051 SCFH
+[2025-03-13 11:30:01] New Alarms Detected: 🔥 Temperature Too High!, ⚠️ Pressure Too High!, 🐢 Dial Rate Too Low!
+==== System Log Initialized ====
+==== System Log Initialized ====
+[2025-03-13 11:49:16] Updated Values -> Corrected Volume: 1752 m³, Gas Pressure: 441 psi, Dial Rate: 0.86 dial/min, Gas Temperature: 54°C, Flow Rate: 965 SCFH
+[2025-03-13 11:49:16] New Alarms Detected: 🔥 Temperature Too High!, 🐢 Dial Rate Too Low!
+[2025-03-13 11:49:21] Updated Values -> Corrected Volume: 1509 m³, Gas Pressure: 400 psi, Dial Rate: 1.03 dial/min, Gas Temperature: 25°C, Flow Rate: 765 SCFH
+[2025-03-13 11:49:21] New Alarms Detected: 🚰 Flow Rate Too Low!
+[2025-03-13 11:49:26] Updated Values -> Corrected Volume: 1249 m³, Gas Pressure: 113 psi, Dial Rate: 1.18 dial/min, Gas Temperature: 12°C, Flow Rate: 1050 SCFH
+[2025-03-13 11:49:26] New Alarms Detected: 
+[2025-03-13 11:49:31] Updated Values -> Corrected Volume: 1527 m³, Gas Pressure: 1214 psi, Dial Rate: 0.73 dial/min, Gas Temperature: 4°C, Flow Rate: 1221 SCFH
+[2025-03-13 11:49:31] New Alarms Detected: 🌊 Flow Rate Too High!, ⚠️ Pressure Too High!, 🐢 Dial Rate Too Low!
+==== System Log Initialized ====
+[2025-03-13 11:50:57] Updated Values -> Corrected Volume: 1531 m³, Gas Pressure: 743 psi, Dial Rate: 1.08 dial/min, Gas Temperature: 56°C, Flow Rate: 1107 SCFH
+[2025-03-13 11:50:57] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!
+[2025-03-13 11:51:02] Updated Values -> Corrected Volume: 1335 m³, Gas Pressure: 226 psi, Dial Rate: 0.69 dial/min, Gas Temperature: 38°C, Flow Rate: 1021 SCFH
+[2025-03-13 11:51:02] New Alarms Detected: 🔥 Temperature Too High!, 🐢 Dial Rate Too Low!
+[2025-03-13 11:51:07] Updated Values -> Corrected Volume: 1416 m³, Gas Pressure: 652 psi, Dial Rate: 1.12 dial/min, Gas Temperature: 3°C, Flow Rate: 1310 SCFH
+[2025-03-13 11:51:07] New Alarms Detected: 🌊 Flow Rate Too High!
+[2025-03-13 11:51:12] Updated Values -> Corrected Volume: 1419 m³, Gas Pressure: 490 psi, Dial Rate: 1.15 dial/min, Gas Temperature: -11°C, Flow Rate: 1038 SCFH
+[2025-03-13 11:51:12] New Alarms Detected: ❄️ Temperature Too Low!
+[2025-03-13 11:51:17] Updated Values -> Corrected Volume: 1169 m³, Gas Pressure: 707 psi, Dial Rate: 1.27 dial/min, Gas Temperature: -39°C, Flow Rate: 595 SCFH
+[2025-03-13 11:51:17] New Alarms Detected: ❄️ Temperature Too Low!, 🚰 Flow Rate Too Low!, 📉 Corrected Volume Too Low!
+[2025-03-13 11:51:22] Updated Values -> Corrected Volume: 1443 m³, Gas Pressure: 768 psi, Dial Rate: 0.88 dial/min, Gas Temperature: 31°C, Flow Rate: 587 SCFH
+[2025-03-13 11:51:22] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!, 🐢 Dial Rate Too Low!
+[2025-03-13 11:51:27] Updated Values -> Corrected Volume: 1459 m³, Gas Pressure: 722 psi, Dial Rate: 0.84 dial/min, Gas Temperature: 46°C, Flow Rate: 706 SCFH
+==== System Log Initialized ====
+[2025-03-13 11:53:22] Updated Values -> Corrected Volume: 1007 m³, Gas Pressure: 191 psi, Dial Rate: 0.85 dial/min, Gas Temperature: 76°C, Flow Rate: 865 SCFH
+[2025-03-13 11:53:22] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!, 📉 Corrected Volume Too Low!, 🐢 Dial Rate Too Low!
+[2025-03-13 11:53:27] Updated Values -> Corrected Volume: 1905 m³, Gas Pressure: 717 psi, Dial Rate: 0.63 dial/min, Gas Temperature: -20°C, Flow Rate: 592 SCFH
+[2025-03-13 11:53:27] New Alarms Detected: ❄️ Temperature Too Low!, 🚰 Flow Rate Too Low!, 📈 Corrected Volume Too High!, 🐢 Dial Rate Too Low!
+[2025-03-13 11:53:28] Updated Values -> Corrected Volume: 1115 m³, Gas Pressure: 1020 psi, Dial Rate: 0.98 dial/min, Gas Temperature: 43°C, Flow Rate: 1070 SCFH
+[2025-03-13 11:53:28] New Alarms Detected: 🔥 Temperature Too High!, ⚠️ Pressure Too High!, 📉 Corrected Volume Too Low!
+[2025-03-13 11:53:33] Updated Values -> Corrected Volume: 1757 m³, Gas Pressure: 134 psi, Dial Rate: 1.38 dial/min, Gas Temperature: 54°C, Flow Rate: 1283 SCFH
+[2025-03-13 11:53:33] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, ⚡ Dial Rate Too High!
+==== System Log Initialized ====
+==== System Log Initialized ====
+==== System Log Initialized ====
+==== System Log Initialized ====
+==== System Log Initialized ====
+==== System Log Initialized ====
+==== System Log Initialized ====
+[2025-03-13 12:14:21] Updated Values -> Corrected Volume: 1478 m³, Gas Pressure: 448 psi, Dial Rate: 0.95 dial/min, Gas Temperature: -40°C, Flow Rate: 959 SCFH
+[2025-03-13 12:14:21] New Alarms Detected: ❄️ Temperature Too Low!
+[2025-03-13 12:14:26] Updated Values -> Corrected Volume: 1363 m³, Gas Pressure: 765 psi, Dial Rate: 0.61 dial/min, Gas Temperature: 67°C, Flow Rate: 971 SCFH
+[2025-03-13 12:14:26] New Alarms Detected: 🔥 Temperature Too High!, 🐢 Dial Rate Too Low!
+==== System Log Initialized ====
+[2025-03-13 12:15:30] Updated Values -> Corrected Volume: 1251 m³, Gas Pressure: 422 psi, Dial Rate: 1.01 dial/min, Gas Temperature: 36°C, Flow Rate: 1000 SCFH
+[2025-03-13 12:15:30] New Alarms Detected: 🔥 Temperature Too High!
+[2025-03-13 12:15:35] Updated Values -> Corrected Volume: 1414 m³, Gas Pressure: 384 psi, Dial Rate: 1.44 dial/min, Gas Temperature: 47°C, Flow Rate: 1242 SCFH
+[2025-03-13 12:15:35] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, ⚡ Dial Rate Too High!
+[2025-03-13 12:15:40] Updated Values -> Corrected Volume: 1674 m³, Gas Pressure: 894 psi, Dial Rate: 0.67 dial/min, Gas Temperature: -15°C, Flow Rate: 847 SCFH
+[2025-03-13 12:15:40] New Alarms Detected: ❄️ Temperature Too Low!, 🚰 Flow Rate Too Low!, 🐢 Dial Rate Too Low!
+[2025-03-13 12:15:45] Updated Values -> Corrected Volume: 1082 m³, Gas Pressure: 151 psi, Dial Rate: 0.5 dial/min, Gas Temperature: 35°C, Flow Rate: 1337 SCFH
+[2025-03-13 12:15:45] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!, 📉 Corrected Volume Too Low!, 🐢 Dial Rate Too Low!
+[2025-03-13 12:15:50] Updated Values -> Corrected Volume: 1476 m³, Gas Pressure: 476 psi, Dial Rate: 1.28 dial/min, Gas Temperature: 77°C, Flow Rate: 549 SCFH
+[2025-03-13 12:15:50] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!
+==== System Log Initialized ====
+==== System Log Initialized ====
+[2025-03-13 12:19:54] Updated Values -> Corrected Volume: 1556 m³, Gas Pressure: 65 psi, Dial Rate: 0.8 dial/min, Gas Temperature: -11°C, Flow Rate: 1012 SCFH
+[2025-03-13 12:19:54] New Alarms Detected: ❄️ Temperature Too Low!, ⚠️ Pressure Too Low!, 🐢 Dial Rate Too Low!
+[2025-03-13 12:19:59] Updated Values -> Corrected Volume: 1884 m³, Gas Pressure: 221 psi, Dial Rate: 0.69 dial/min, Gas Temperature: 71°C, Flow Rate: 715 SCFH
+[2025-03-13 12:19:59] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!, 📈 Corrected Volume Too High!, 🐢 Dial Rate Too Low!
+==== System Log Initialized ====
+[2025-03-13 12:33:38] Updated Values -> Corrected Volume: 1919 m³, Gas Pressure: 671 psi, Dial Rate: 1.07 dial/min, Gas Temperature: -19°C, Flow Rate: 510 SCFH
+[2025-03-13 12:33:38] New Alarms Detected: ❄️ Temperature Too Low!, 🚰 Flow Rate Too Low!, 📈 Corrected Volume Too High!
+[2025-03-13 12:33:43] Updated Values -> Corrected Volume: 1284 m³, Gas Pressure: 275 psi, Dial Rate: 1.07 dial/min, Gas Temperature: 66°C, Flow Rate: 1149 SCFH
+[2025-03-13 12:33:43] New Alarms Detected: 🔥 Temperature Too High!, 🌊 Flow Rate Too High!
+[2025-03-13 12:33:48] Updated Values -> Corrected Volume: 1688 m³, Gas Pressure: 570 psi, Dial Rate: 1.39 dial/min, Gas Temperature: -28°C, Flow Rate: 1303 SCFH
+[2025-03-13 12:33:48] New Alarms Detected: ❄️ Temperature Too Low!, 🌊 Flow Rate Too High!, ⚡ Dial Rate Too High!
+==== System Log Initialized ====
+[2025-03-13 12:36:20] Updated Values -> Corrected Volume: 1830 m³, Gas Pressure: 1124 psi, Dial Rate: 1.41 dial/min, Gas Temperature: 17°C, Flow Rate: 645 SCFH
+[2025-03-13 12:36:20] New Alarms Detected: 🚰 Flow Rate Too Low!, ⚠️ Pressure Too High!, 📈 Corrected Volume Too High!, ⚡ Dial Rate Too High!
+[2025-03-13 12:36:25] Updated Values -> Corrected Volume: 1346 m³, Gas Pressure: 1170 psi, Dial Rate: 0.86 dial/min, Gas Temperature: 43°C, Flow Rate: 691 SCFH
+[2025-03-13 12:36:25] New Alarms Detected: 🔥 Temperature Too High!, 🚰 Flow Rate Too Low!, ⚠️ Pressure Too High!, 🐢 Dial Rate Too Low!
+[2025-03-13 12:36:30] Updated Values -> Corrected Volume: 1626 m³, Gas Pressure: 957 psi, Dial Rate: 1.42 dial/min, Gas Temperature: 39°C, Flow Rate: 970 SCFH
+[2025-03-13 12:36:30] New Alarms Detected: 🔥 Temperature Too High!, ⚡ Dial Rate Too High!
+[2025-03-13 12:36:35] Updated Values -> Corrected Volume: 1634 m³, Gas Pressure: 432 psi, Dial Rate: 0.81 dial/min, Gas Temperature: -40°C, Flow Rate: 531 SCFH
+[2025-03-13 12:36:35] New Alarms Detected: ❄️ Temperature Too Low!, 🚰 Flow Rate Too Low!, 🐢 Dial Rate Too Low!
+==== System Log Initialized ====
+==== System Log Initialized ====
+==== System Log Initialized ====
+==== System Log Initialized ====
+==== System Log Initialized ====
+==== System Log Initialized ====
+==== System Log Initialized ====
+==== System Log Initialized ====
