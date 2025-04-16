@@ -1,0 +1,1057 @@
+Available Windows: [<uiawrapper.UIAWrapper - 'Authentication', Dialog, 6993398121757043168>]
+Connected to Authentication window!
+Control Identifiers:
+
+Dialog - 'Authentication'    (L660, T166, R1260, B841)
+['AuthenticationDialog', 'Dialog', 'Authentication']
+child_window(title="Authentication", auto_id="QGuiApplication.ApplicationWindow_QMLTYPE_6", control_type="Window")
+   |
+   | TitleBar - ''    (L684, T125, R1260, B167)
+   | ['TitleBar']
+   |    |
+   |    | Menu - 'System'    (L660, T133, R693, B166)
+   |    | ['Menu', 'System', 'SystemMenu', 'System0', 'System1']
+   |    | child_window(title="System", auto_id="MenuBar", control_type="MenuBar")
+   |    |    |
+   |    |    | MenuItem - 'System'    (L660, T133, R693, B166)
+   |    |    | ['MenuItem', 'System2', 'SystemMenuItem']
+   |    |    | child_window(title="System", control_type="MenuItem")
+   |    |
+   |    | Button - 'Minimize'    (L1049, T123, R1120, B167)
+   |    | ['MinimizeButton', 'Minimize', 'Button', 'Button0', 'Button1']
+   |    | child_window(title="Minimize", control_type="Button")
+   |    |
+   |    | Button - 'Maximize'    (L1120, T123, R1190, B167)
+   |    | ['MaximizeButton', 'Maximize', 'Button2']
+   |    | child_window(title="Maximize", control_type="Button")
+   |    |
+   |    | Button - 'Close'    (L1190, T123, R1261, B167)
+   |    | ['CloseButton', 'Button3', 'Close']
+   |    | child_window(title="Close", control_type="Button")
+   | 
+   | Custom - ''    (L660, T166, R1260, B841)
+   | ['Custom']
+   | child_window(auto_id="QGuiApplication.ApplicationWindow_QMLTYPE_6.StackView_QMLTYPE_17", control_type="Custom")       
+   |    |
+   |    | Edit - ''    (L810, T523, R1110, B553)
+   |    | ['Edit', 'Edit0', 'Edit1']
+   |    | child_window(auto_id="QGuiApplication.ApplicationWindow_QMLTYPE_6.StackView_QMLTYPE_17.TextField_QMLTYPE_7", control_type="Edit")
+   |    |
+   |    | Edit - ''    (L810, T576, R1110, B606)
+   |    | ['Edit2']
+   |    | child_window(auto_id="QGuiApplication.ApplicationWindow_QMLTYPE_6.StackView_QMLTYPE_17.TextField_QMLTYPE_7", control_type="Edit")
+   |    | 
+   |    | Button - 'Login'    (L810, T628, R1110, B664)
+   |    | ['LoginButton', 'Button4', 'Login']
+   |    | child_window(title="Login", auto_id="QGuiApplication.ApplicationWindow_QMLTYPE_6.StackView_QMLTYPE_17.Button_QMLTYPE_10", control_type="Button")
+   |    |
+   |    | Button - 'Signup'    (L810, T687, R1110, B723)
+   |    | ['Signup', 'Button5', 'SignupButton']
+   |    | child_window(title="Signup", auto_id="QGuiApplication.ApplicationWindow_QMLTYPE_6.StackView_QMLTYPE_17.Button_QMLTYPE_10", control_type="Button")
+Running Login Test...
+❌ Login Test Failed! Error: {'auto_id': 'Username', 'control_type': 'Edit', 'top_level_only': False, 'parent': <uia_elemen   |    | Button - 'Signup'    (L810, T687, R1110, B723)
+   |    | ['Signup', 'Button5', 'SignupButton']
+   |    | child_window(title="Signup", auto_id="QGuiApplication.ApplicationWindow_QMLTYPE_6.StackView_QMLTYPE_17.Button_QMLTYPE_10", control_type="Button")
+Running Login Test...
+   |    | Button - 'Signup'    (L810, T687, R1110, B723)
+   |    | ['Signup', 'Button5', 'SignupButton']
+   |    | child_window(title="Signup", auto_id="QGuiApplication.ApplicationWindow_QMLTYPE_6.StackView_QMLTYPE_17.Button_QML   |    | Button - 'Signup'    (L810, T687, R1110, B723)
+   |    | ['Signup', 'Button5', 'SignupButton']
+   |    | Button - 'Signup'    (L810, T687, R1110, B723)
+   |    | Button - 'Signup'    (L810, T687, R1110, B723)
+   |    | ['Signup', 'Button5', 'SignupButton']
+   |    | Button - 'Signup'    (L810, T687, R1110, B723)
+   |    | ['Signup', 'Button5', 'SignupButton']
+   |    | child_window(title="Signup", auto_id="QGuiApplication.ApplicationWindow_QMLTYPE_6.StackView_QMLTYPE_17.Button_QML   |    | Button - 'Signup'    (L810, T687, R1110, B723)
+   |    | ['Signup', 'Button5', 'SignupButton']
+   |    | Button - 'Signup'    (L810, T687, R1110, B723)
+   |    | ['Signup', 'Button5', 'SignupButton']
+   |    | ['Signup', 'Button5', 'SignupButton']
+   |    | child_window(title="Signup", auto_id="QGuiApplication.ApplicationWindow_QMLTYPE_6.StackView_QMLTYPE_17.Button_QML   |    | child_window(title="Signup", auto_id="QGuiApplication.ApplicationWindow_QMLTYPE_6.StackView_QMLTYPE_17.Button_QMLTYPE_10", control_type="Button")
+Running Login Test...
+❌ Login Test Failed! Error: {'auto_id': 'Username', 'control_type': 'Edit', 'top_level_only': False, 'parent': <uia_element_info.UIAElementInfo - 'Authentication', ApplicationWindow_QMLTYPE_6, 1837040>, 'backend': 'uia'}
+Running Signup Test...
+❌ Signup Test Failed! Error: {'title': 'Signup', 'backend': 'uia', 'process': 21676}
+Test execution completed.
+
+
+
+
+
+
+
+#===========================================================================================================
+
+
+
+import QtQuick 2.15
+import QtQuick.Controls 2.15
+
+ApplicationWindow {
+    visible: true
+    width: 400
+    height: 450
+    title: "Authentication"
+
+    StackView {
+        id: stackView
+        anchors.fill: parent
+        initialItem: loginPage
+    }
+
+    // Notification Dialog Positioned in Upper Center
+    Dialog {
+        id: messageDialog
+        title: "Notification"
+        modal: true
+        width: 300
+        height: 100
+        x: (parent.width - width) / 2  // ✅ Center horizontally
+        y: 20  // ✅ Place near the top
+
+        Text {
+            id: dialogText
+            text: ""
+            font.pixelSize: 16
+            anchors.centerIn: parent  // ✅ Center text inside the dialog
+        }
+
+        standardButtons: Dialog.Ok  // ✅ Adds an "OK" button
+
+        onAccepted: {
+            messageDialog.visible = false
+        }
+    }
+
+    Component {
+        id: loginPage
+
+        Rectangle {
+            color: "#f0f0f0"
+            width: parent.width
+            height: parent.height
+
+            Column {
+                anchors.centerIn: parent
+                spacing: 15
+
+                Text {
+                    text: "Honeywell"
+                    font.pixelSize: 24
+                    font.bold: true
+                    anchors.horizontalCenter: parent.horizontalCenter
+                }
+
+                Text {
+                    text: "MasterLink"
+                    font.pixelSize: 20
+                    anchors.horizontalCenter: parent.horizontalCenter
+                }
+
+                Text {
+                    text: "MasterLinkR515.1"
+                    font.pixelSize: 16
+                    anchors.horizontalCenter: parent.horizontalCenter
+                }
+
+                Text {
+                    text: "Please login to get started"
+                    font.pixelSize: 14
+                    anchors.horizontalCenter: parent.horizontalCenter
+                }
+
+                TextField {
+                    id: usernameField
+                    placeholderText: "Username"
+                    width: 200
+                    anchors.horizontalCenter: parent.horizontalCenter
+                }
+
+                TextField {
+                    id: passwordField
+                    placeholderText: "Password"
+                    echoMode: TextInput.Password
+                    width: 200
+                    anchors.horizontalCenter: parent.horizontalCenter
+                }
+
+                Button {
+                    text: "Login"
+                    width: 200
+                    anchors.horizontalCenter: parent.horizontalCenter
+                    onClicked: {
+                        backend.login(usernameField.text, passwordField.text)
+                    }
+                }
+
+                Button {
+                    text: "Signup"
+                    width: 200
+                    anchors.horizontalCenter: parent.horizontalCenter
+                    onClicked: {
+                        stackView.push(signupPage)
+                    }
+                }
+            }
+        }
+    }
+
+    Component {
+        id: signupPage
+
+        Rectangle {
+            color: "#f0f0f0"
+            width: parent.width
+            height: parent.height
+
+            Column {
+                anchors.centerIn: parent
+                spacing: 10
+
+                Text {
+                    text: "Register"
+                    font.pixelSize: 24
+                    font.bold: true
+                    anchors.horizontalCenter: parent.horizontalCenter
+                }
+
+                Row {
+                    anchors.horizontalCenter: parent.horizontalCenter
+                    spacing: 10
+
+                    Column {
+                        spacing: 5
+                        Text { text: "Username"; font.pixelSize: 14 }
+                        TextField {
+                            id: signupUsernameField
+                            placeholderText: "Enter username"
+                            width: 120
+                        }
+                    }
+
+                    Column {
+                        spacing: 5
+                        Text { text: "Key"; font.pixelSize: 14 }
+                        TextField {
+                            id: keyField
+                            placeholderText: "Enter key"
+                            width: 120
+                        }
+                    }
+                }
+
+                Row {
+                    anchors.horizontalCenter: parent.horizontalCenter
+                    spacing: 10
+
+                    Column {
+                        spacing: 5
+                        Text { text: "Password"; font.pixelSize: 14 }
+                        TextField {
+                            id: signupPasswordField
+                            placeholderText: "Enter password"
+                            echoMode: TextInput.Password
+                            width: 120
+                        }
+                    }
+
+                    Column {
+                        spacing: 5
+                        Text { text: "Confirm Password"; font.pixelSize: 14 }
+                        TextField {
+                            id: confirmPasswordField
+                            placeholderText: "Confirm password"
+                            echoMode: TextInput.Password
+                            width: 120
+                        }
+                    }
+                }
+
+                Row {
+                    anchors.horizontalCenter: parent.horizontalCenter
+                    spacing: 10
+
+                    Button {
+                        text: "Register"
+                        width: 90
+                        onClicked: {
+                            if (signupPasswordField.text !== confirmPasswordField.text) {
+                                dialogText.text = "Passwords do not match";
+                                messageDialog.open();
+                            } else {
+                                backend.register(signupUsernameField.text, signupPasswordField.text);
+                            }
+                        }
+                    }
+
+                    Button {
+                        text: "Back"
+                        width: 90
+                        onClicked: {
+                            stackView.pop()
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    // Connecting Backend Signals to Show Popups
+    Connections {
+        target: backend
+
+        function onLoginSuccess(success) {
+            dialogText.text = success ? "Login Successful!" : "Invalid Credentials!";
+            messageDialog.open();
+        }
+
+        function onRegisterSuccess(success) {
+            dialogText.text = success ? "Registration Successful!" : "Username already exists!";
+            messageDialog.open();
+        }
+    }
+}
+
+
+
+#===================================================================================
+
+
+import pytest
+import time
+from pywinauto import Application
+
+# Define application path
+EXE_PATH = r"C:\Users\Admin\Downloads\Frist_project\Frist_project\dist\AuthApp.exe"
+
+@pytest.fixture(scope="module")
+def app():
+    """Setup and return the application instance."""
+    application = Application(backend="uia").start(EXE_PATH)
+    time.sleep(3)  # Allow time for the application to load
+    yield application
+    application.kill()  # Ensure the application closes after tests
+
+@pytest.fixture
+def main_window(app):
+    """Attach to the Authentication window."""
+    app = app.connect(path=EXE_PATH)
+    window = app.window(title="Authentication")
+    assert window.exists(), "❌ Authentication window not found!"
+    window.maximize()
+    return window
+
+
+def test_signup(main_window):
+    """Test the Signup functionality."""
+    print("Running Signup Test...")
+
+    name = "new user"
+    passwd = "securekey@123"
+
+    # Click Signup button
+    signup_btn = main_window.child_window(title="Signup", control_type="Button")
+    assert signup_btn.exists(), "❌ Signup button not found!"
+    signup_btn.click_input()
+    time.sleep(2)
+
+    # Detect Signup Form fields
+    signup_fields = main_window.descendants(control_type="Edit")
+    assert len(signup_fields) >= 3, "❌ Signup form fields not found!"
+
+    # Fill in the form
+    signup_fields[0].type_keys(name)  # Name
+    signup_fields[1].type_keys("1234")  # Email
+    signup_fields[2].type_keys(passwd)  # Password
+    signup_fields[3].type_keys(passwd)  # Confirm Password
+
+    # Click Register button
+    register_btn = main_window.child_window(title="Register", control_type="Button")
+    assert register_btn.exists(), "❌ Register button not found!"
+    register_btn.click_input()
+
+    # Handle Popup with Specific Title
+    time.sleep(2)  # Wait for popup
+    popups = main_window.descendants(control_type="Window")
+
+    if popups:
+        popup = popups[0]  # Assume first popup is correct
+        print(f"✅ Popup detected! Title: {popup.window_text()}")
+
+        # Find and click the OK button
+        ok_buttons = popup.descendants(control_type="Button")
+        if ok_buttons:
+            ok_buttons[0].click_input()  # Click first button (should be OK)
+            print("✅ Signup OK button clicked! Popup closed.")
+        else:
+            print("❌ OK button not found in popup.")
+    else:
+        print("❌ No popup detected.")
+
+    # Click Back button after signup
+    back_btn = main_window.child_window(title="Back", control_type="Button")
+    assert back_btn.exists(), "❌ Back button not found!"
+    back_btn.click_input()
+    print("✅ Back button clicked, returning to Login page.")
+
+    time.sleep(2)  # Allow time for UI to update
+
+
+def test_login(main_window):
+    """Test the Login functionality."""
+    print("Running Login Test...")
+
+    name = "new user"
+    passwd = "securekey@123"
+
+    # Get login fields
+    text_fields = main_window.descendants(control_type="Edit")
+    assert len(text_fields) >= 2, "❌ Login form fields not found!"
+
+    # Enter login details
+    text_fields[0].type_keys(name)  # Username
+    text_fields[1].type_keys(passwd)  # Password
+
+    # Debug: Print available buttons before clicking Login
+    print("Available buttons before Login:")
+    buttons = main_window.descendants(control_type="Button")
+    for btn in buttons:
+        print(f"Button: {btn.window_text()}")
+
+    # Click Login button (if title differs, adjust here)
+    login_btn = main_window.child_window(title="Login", control_type="Button")
+    if not login_btn.exists():
+        login_btn = main_window.child_window(best_match="Login")
+
+    assert login_btn.exists(), "❌ Login button not found!"
+    login_btn.click_input()
+
+    print("✅ Login Test Passed!")
+
+    # Handle Login Popup
+    time.sleep(2)
+    popups = main_window.descendants(control_type="Window")
+
+    if popups:
+        popup = popups[0]
+        print(f"✅ Login Popup detected! Title: {popup.window_text()}")
+
+        ok_buttons = popup.descendants(control_type="Button")
+        if ok_buttons:
+            ok_buttons[0].click_input()
+            print("✅ Login OK button clicked! Popup closed.")
+        else:
+            print("❌ OK button not found in Login popup.")
+    else:
+        print("❌ No popup detected.")
+
+
+def test_close_app(main_window):
+    """Test closing the application."""
+    print("Closing the application...")
+    close_btn = main_window.child_window(title="Close", control_type="Button")
+    assert close_btn.exists(), "❌ Close button not found!"
+    close_btn.click_input()
+    print("✅ Application closed successfully!")
+
+#=========================================================================
+
+import QtQuick 2.15
+import QtQuick.Controls 2.15
+import QtQuick.Layouts 1.15
+
+ApplicationWindow {
+    visible: true
+    width: 1200
+    height: 700
+    title: "Authentication"
+
+    StackView {
+        id: stackView
+        anchors.fill: parent
+        initialItem: loginPage
+    }
+
+    // Notification Dialog for Messages
+    Dialog {
+        id: messageDialog
+        title: "Notification"
+        modal: true
+        width: 300
+        height: 120
+        x: (parent.width - width) / 2  // Center horizontally
+        y: 20  // Position near top
+
+        Column {
+            anchors.fill: parent
+            spacing: 10
+            Text {
+                id: dialogText
+                text: ""
+                font.pixelSize: 16
+                anchors.horizontalCenter: parent.horizontalCenter
+            }
+        }
+
+        standardButtons: Dialog.Ok
+        onAccepted: {
+            messageDialog.close()
+
+            // Handling navigation after popup
+            if (dialogText.text === "Login Successful!") {
+                stackView.push(dashboardPage)  // Navigate to Dashboard
+            }
+        }
+    }
+
+    Component {
+        id: loginPage
+
+        Rectangle {
+            color: "#f0f0f0"
+            width: parent.width
+            height: parent.height
+
+            Column {
+                anchors.centerIn: parent
+                spacing: 15
+
+                Text { text: "Honeywell"; font.pixelSize: 24; font.bold: true; anchors.horizontalCenter: parent.horizontalCenter }
+                Text { text: "MasterLink"; font.pixelSize: 20; anchors.horizontalCenter: parent.horizontalCenter }
+                Text { text: "MasterLinkR515.1"; font.pixelSize: 16; anchors.horizontalCenter: parent.horizontalCenter }
+                Text { text: "Please login to get started"; font.pixelSize: 14; anchors.horizontalCenter: parent.horizontalCenter }
+
+                TextField { id: usernameField; placeholderText: "Username"; width: 200; anchors.horizontalCenter: parent.horizontalCenter }
+                TextField { id: passwordField; placeholderText: "Password"; echoMode: TextInput.Password; width: 200; anchors.horizontalCenter: parent.horizontalCenter }
+
+                Button {
+                    text: "Login"
+                    width: 200
+                    anchors.horizontalCenter: parent.horizontalCenter
+                    onClicked: {
+                        backend.login(usernameField.text, passwordField.text)
+                    }
+                }
+
+                Button {
+                    text: "Signup"
+                    width: 200
+                    anchors.horizontalCenter: parent.horizontalCenter
+                    onClicked: stackView.push(signupPage)
+                }
+            }
+        }
+    }
+
+    Component {
+        id: signupPage
+
+        Rectangle {
+            color: "#f0f0f0"
+            width: parent.width
+            height: parent.height
+
+            Column {
+                anchors.centerIn: parent
+                spacing: 10
+
+                Text { text: "Register"; font.pixelSize: 24; font.bold: true; anchors.horizontalCenter: parent.horizontalCenter }
+
+                Row {
+                    anchors.horizontalCenter: parent.horizontalCenter
+                    spacing: 10
+
+                    Column {
+                        spacing: 5
+                        Text { text: "Username"; font.pixelSize: 14 }
+                        TextField { id: signupUsernameField; placeholderText: "Enter username"; width: 120 }
+                    }
+
+                    Column {
+                        spacing: 5
+                        Text { text: "Key"; font.pixelSize: 14 }
+                        TextField { id: keyField; placeholderText: "Enter key"; width: 120 }
+                    }
+                }
+
+                Row {
+                    anchors.horizontalCenter: parent.horizontalCenter
+                    spacing: 10
+
+                    Column {
+                        spacing: 5
+                        Text { text: "Password"; font.pixelSize: 14 }
+                        TextField { id: signupPasswordField; placeholderText: "Enter password"; echoMode: TextInput.Password; width: 120 }
+                    }
+
+                    Column {
+                        spacing: 5
+                        Text { text: "Confirm Password"; font.pixelSize: 14 }
+                        TextField { id: confirmPasswordField; placeholderText: "Confirm password"; echoMode: TextInput.Password; width: 120 }
+                    }
+                }
+
+                Row {
+                    anchors.horizontalCenter: parent.horizontalCenter
+                    spacing: 10
+
+                    Button {
+                        text: "Register"
+                        width: 90
+                        onClicked: {
+                            if (signupPasswordField.text !== confirmPasswordField.text) {
+                                dialogText.text = "Passwords do not match";
+                                messageDialog.open();
+                            } else {
+                                backend.register(signupUsernameField.text, signupPasswordField.text);
+                            }
+                        }
+                    }
+
+                    Button {
+                        text: "Back"
+                        width: 90
+                        onClicked: stackView.pop()
+                    }
+                }
+            }
+        }
+    }
+
+    Component {
+        id: dashboardPage
+
+        Rectangle {
+            width: parent.width
+            height: parent.height
+            color: "#F5F5F5"
+
+            RowLayout {
+                anchors.fill: parent
+                spacing: 10
+
+                // Sidebar
+                Rectangle {
+                    width: 200
+                    height: parent.height
+                    color: "#333"
+
+                    ColumnLayout {
+                        anchors.fill: parent
+                        spacing: 20
+                        Label { text: " Dashboard"; color: "white"; font.pixelSize: 18 }
+                        Label { text: " Site"; color: "white"; font.pixelSize: 16 }
+                        Label { text: " View/Edit"; color: "white"; font.pixelSize: 16 }
+                        Label { text: " Calibrate"; color: "white"; font.pixelSize: 16 }
+                        Label { text: " Read Data"; color: "white"; font.pixelSize: 16 }
+                        Label { text: " Live Data"; color: "white"; font.pixelSize: 16 }
+                        Label { text: " Administer"; color: "white"; font.pixelSize: 16 }
+                        Label { text: " Setting"; color: "white"; font.pixelSize: 16 }
+                        Label { text: " Security"; color: "white"; font.pixelSize: 16 }
+                        Label { text: " Update"; color: "white"; font.pixelSize: 16 }
+                    }
+                }
+
+                // Main Content
+                ColumnLayout {
+                    anchors.left: parent.left
+                    anchors.leftMargin: 220
+                    anchors.top: parent.top
+                    anchors.topMargin: 20
+                    width: parent.width - 240
+                    spacing: 20
+
+                    Label {
+                        text: "Site Management"
+                        font.pixelSize: 18
+                        font.bold: true
+                    }
+
+                    RowLayout {
+                        spacing: 20
+                        
+                        Image {
+                            source: "EC350.png"
+                            width: 100
+                            height: 100
+                            fillMode: Image.PreserveAspectFit
+                            smooth: true
+                        }
+                        
+                        ColumnLayout {
+                            Label { text: "Location 1"; font.pixelSize: 16 }
+                            Label { text: "EC350"; font.pixelSize: 16 }
+                        }
+                        
+                        ColumnLayout {
+                            Label { text: "Connect"; font.pixelSize: 16; font.bold: true }
+                            RowLayout {
+                                spacing: 10
+                                Button { text: "Modem" }
+                                Button {
+                                text: "Serial"
+                                contentItem: Text {
+                                    text: "Serial"
+                                    color: "#0080FF"
+                                    font.pixelSize: 16
+                                    font.bold: true
+                                    horizontalAlignment: Text.AlignHCenter
+                                    verticalAlignment: Text.AlignVCenter
+                                }
+                            }
+                                Button { text: "Internet" }
+                                Button {
+                                text: "IrDA"
+                                contentItem: Text {
+                                    text: "IrDA"
+                                    color: "#0080FF"
+                                    font.pixelSize: 16
+                                    font.bold: true
+                                    horizontalAlignment: Text.AlignHCenter
+                                    verticalAlignment: Text.AlignVCenter
+                                }
+                            }
+                            }
+                        }
+                    }
+                    
+                    Label {
+                        text: "Stand Alone"
+                        font.pixelSize: 16
+                        font.bold: true
+                        color: "#808080"
+                    }
+                    
+                    Rectangle {
+                        width: parent.width - 240
+                        height: 2
+                        color: "gray"
+                    }
+
+                    // Two-column Layout
+                    RowLayout {
+                        spacing: 20
+
+                        ColumnLayout {
+                            RowLayout {
+                                Label { text: "Instrument Type:" }
+                                ComboBox { model: ["EC350"] }
+                            }
+                            RowLayout {
+                                Label { text: "Site Name:" }
+                                Label { text: "Location1" }
+                            }
+                            RowLayout {
+                                Label { text: "Site Location:" }
+                                Label { text: "Hyd" }
+                            }
+                            RowLayout {
+                                Label { text: "Site ID:" }
+                                Label { text: "012345" }
+                            }
+                            RowLayout {
+                                Label { text: "Site ID 2:" }
+                                Label { text: "023456" }
+                            }
+                            RowLayout {
+                                Label { text: "User ID:" }
+                                Label { text: "0" }
+                            }
+                            RowLayout {
+                                Label { text: "Instrument Access Code:" }
+                                Label { text: "*****" }
+                            }
+                        }
+
+                        ColumnLayout {
+                            RowLayout {
+                                Label { text: "Internet:" }
+                                ComboBox { model: ["None"] }
+                            }
+                            RowLayout {
+                                Label { text: "Site Phone:" }
+                                TextField {}
+                            }
+                            RowLayout {
+                                Label { text: "SSL Private Key:" }
+                                TextField {}
+                            }
+                            RowLayout {
+                                Label { text: "Modem ID:" }
+                                Label { text: "0" }
+                            }
+                            RowLayout {
+                                Label { text: "Modem Port:" }
+                                ComboBox { model: ["None"] }
+                            }
+                            RowLayout {
+                                Label { text: "Post Modem Command:" }
+                                TextField {}
+                            }
+                        }
+                    }
+                }
+
+                // Save and Cancel Buttons
+                Row {
+                    anchors.bottom: parent.bottom
+                    anchors.right: parent.right
+                    anchors.margins: 20
+                    spacing: 10
+
+                    Button {
+                        text: "Save"
+                        width: 100
+                        height: 40
+                        background: Rectangle {
+                            color: "#0080FF"
+                            radius: 5
+                        }
+                        contentItem: Text {
+                            text: "Save"
+                            color: "white"
+                            font.pixelSize: 16
+                            horizontalAlignment: Text.AlignHCenter
+                            verticalAlignment: Text.AlignVCenter
+                        }
+                    }
+
+                    Button {
+                        text: "Cancel"
+                        width: 100
+                        height: 40
+                        background: Rectangle {
+                            color: "#0080FF"
+                            radius: 5
+                        }
+                        contentItem: Text {
+                            text: "Cancel"
+                            color: "white"
+                            font.pixelSize: 16
+                            horizontalAlignment: Text.AlignHCenter
+                            verticalAlignment: Text.AlignVCenter
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    // Connecting Backend Signals to Show Popups
+    Connections {
+        target: backend
+
+        function onLoginSuccess(success) {
+            dialogText.text = success ? "Login Successful!" : "Invalid Credentials!";
+            messageDialog.open();
+        }
+
+        function onRegisterSuccess(success) {
+            dialogText.text = success ? "Registration Successful!" : "Username already exists!";
+            messageDialog.open();
+        }
+    }
+}
+
+#===================================================================================
+
+import pytest
+import time
+from pywinauto import Application
+
+# Define application path
+EXE_PATH = r"C:\Users\Admin\Downloads\Frist_project\Frist_project\dist\AuthApp.exe"
+
+@pytest.fixture(scope="module")
+def app():
+    """Setup and return the application instance."""
+    application = Application(backend="uia").start(EXE_PATH)
+    time.sleep(3)  # Allow time for the application to load
+    yield application
+    application.kill()  # Ensure the application closes after tests
+
+@pytest.fixture
+def main_window(app):
+    """Attach to the Authentication window."""
+    app = app.connect(path=EXE_PATH)
+    window = app.window(title="Authentication")
+    assert window.exists(), "❌ Authentication window not found!"
+    window.maximize()
+    return window
+
+def wait_for_popup(main_window, timeout=10):
+    """Wait for a popup to appear after clicking a button."""
+    for _ in range(timeout):
+        popups = main_window.descendants(control_type="Window")
+        if popups:
+            return popups[0]  # Return the first detected popup
+        time.sleep(1)  # Wait 1 sec before rechecking
+    return None  # Return None if no popup appears
+
+def test_signup(main_window):
+    """Test the Signup functionality."""
+    print("Running Signup Test...")
+
+    name = "new user"
+    passwd = "securekey@123"
+
+    # Click Signup button
+    signup_btn = main_window.child_window(title="Signup", control_type="Button")
+    assert signup_btn.exists(), "❌ Signup button not found!"
+    signup_btn.click_input()
+    time.sleep(2)
+
+    # Detect Signup Form fields
+    signup_fields = main_window.descendants(control_type="Edit")
+    assert len(signup_fields) >= 3, "❌ Signup form fields not found!"
+
+    # Fill in the form
+    signup_fields[0].type_keys(name)  # Name
+    signup_fields[1].type_keys("1234")  # Email
+    signup_fields[2].type_keys(passwd)  # Password
+    signup_fields[3].type_keys(passwd)  # Confirm Password
+
+    # Click Register button
+    register_btn = main_window.child_window(title="Register", control_type="Button")
+    assert register_btn.exists(), "❌ Register button not found!"
+    register_btn.click_input()
+
+    # Handle Popup and Validate Message
+    popup = wait_for_popup(main_window)
+    assert popup, "❌ No popup detected after Signup!"
+    
+    message = popup.window_text()
+    print(f"✅ Signup Popup detected! Message: {message}")
+
+    if "Registration Successful" in message:
+        print("✅ Registration was successful.")
+    elif "Username already exist" in message:
+        print("⚠️ User is already registered.")
+    else:
+        print("❌ Unexpected Signup popup message!")
+
+    # Click OK in popup
+    ok_buttons = popup.descendants(control_type="Button")
+    assert ok_buttons, "❌ OK button not found in Signup popup!"
+    ok_buttons[0].click_input()
+    print("✅ Signup popup closed.")
+
+    # Click Back button after signup
+    back_btn = main_window.child_window(title="Back", control_type="Button")
+    assert back_btn.exists(), "❌ Back button not found!"
+    back_btn.click_input()
+    print("✅ Back button clicked, returning to Login page.")
+
+    time.sleep(2)  # Allow time for UI to update
+
+def test_login(main_window):
+    """Test the Login functionality."""
+    print("Running Login Test...")
+
+    name = "new user"
+    passwd = "securekey@123"
+
+    # Get login fields
+    text_fields = main_window.descendants(control_type="Edit")
+    assert len(text_fields) >= 2, "❌ Login form fields not found!"
+
+    # Enter login details
+    text_fields[0].type_keys(name)  # Username
+    text_fields[1].type_keys(passwd)  # Password
+
+    # Click Login button
+    login_btn = main_window.child_window(title="Login", control_type="Button")
+    assert login_btn.exists(), "❌ Login button not found!"
+    login_btn.click_input()
+
+    # Handle Login Popup and Validate Message
+    popup = wait_for_popup(main_window)
+    assert popup, "❌ No popup detected after Login!"
+    
+    message = popup.window_text()
+    print(f"✅ Login Popup detected! Message: {message}")
+
+    if "Login Successful" in message:
+        print("✅ Login was successful.")
+    elif "Invalid Credentials" in message:
+        print("❌ Invalid username or password!")
+    else:
+        print("❌ Unexpected Login popup message!")
+
+    # Click OK in popup
+    ok_buttons = popup.descendants(control_type="Button")
+    assert ok_buttons, "❌ OK button not found in Login popup!"
+    ok_buttons[0].click_input()
+    print("✅ Login popup closed.")
+
+def test_close_app(main_window):
+    """Test closing the application."""
+    print("Closing the application...")
+    close_btn = main_window.child_window(title="Close", control_type="Button")
+    assert close_btn.exists(), "❌ Close button not found!"
+    close_btn.click_input()
+    print("✅ Application closed successfully!")
+
+
+#=============================================================================
+
+
+import sys
+import sqlite3
+from PySide6.QtCore import QObject, Slot, Signal
+from PySide6.QtGui import QGuiApplication
+from PySide6.QtQml import QQmlApplicationEngine
+
+# Database Helper Class
+class DatabaseManager(QObject):
+    loginSuccess = Signal(bool)
+    registerSuccess = Signal(bool)
+
+    def __init__(self):
+        super().__init__()
+        self.conn = sqlite3.connect("users.db", check_same_thread=False)  # Make it thread-safe
+        self.cursor = self.conn.cursor()
+        self.cursor.execute('''CREATE TABLE IF NOT EXISTS users (id INTEGER PRIMARY KEY, username TEXT UNIQUE, password TEXT)''')
+        self.conn.commit()
+
+    @Slot(str, str)
+    def login(self, username, password):
+        self.cursor.execute("SELECT * FROM users WHERE username=? AND password=?", (username, password))
+        result = self.cursor.fetchone()
+        if result:
+            print("Login Successful")
+            self.loginSuccess.emit(True)
+        else:
+            print("Invalid Credentials")
+            self.loginSuccess.emit(False)
+
+    @Slot(str, str)
+    def register(self, username, password):
+        try:
+            self.cursor.execute("INSERT INTO users (username, password) VALUES (?, ?)", (username, password))
+            self.conn.commit()  # Ensure the changes are saved
+            print("User Registered Successfully")
+            self.registerSuccess.emit(True)
+        except sqlite3.IntegrityError:
+            print("Username already exists")
+            self.registerSuccess.emit(False)
+
+    def close_connection(self):
+        self.conn.close()
+
+# Main Application
+if __name__ == "__main__":
+    app = QGuiApplication(sys.argv)
+    engine = QQmlApplicationEngine()
+
+    backend = DatabaseManager()
+    engine.rootContext().setContextProperty("backend", backend)
+
+    engine.load("C:/Users/Admin/Downloads/Frist_project/Frist_project/main.qml")
+
+    if not engine.rootObjects():
+        sys.exit(-1)
+
+    app.aboutToQuit.connect(backend.close_connection)  # Close DB connection when app closes
+    sys.exit(app.exec())
+
